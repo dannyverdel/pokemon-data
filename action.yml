@@ -1,10 +1,5 @@
 name: 'Update sets and cards'
 description: 'Update sets and cards in data/data.json'
-inputs:
-  who-to-greet:  # id of input
-    description: 'Who to greet'
-    required: true
-    default: 'World'
 outputs:
   time: # id of output
     description: 'Full json object containing all sets and cards'
