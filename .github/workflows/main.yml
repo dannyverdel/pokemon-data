@@ -11,5 +11,5 @@ jobs:
         with:
           update: 'Mona the Octocat'
       # Use the output from the `hello` step
-      - name: Get the output time
+      - name: Get sets and cards
         run: echo "${{ steps.hello.outputs }}"
