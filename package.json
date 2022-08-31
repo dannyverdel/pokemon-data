@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-data",
+  "version": "1.0.0",
+  "description": "Public pokemon data ===================",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyverdel/pokemon-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyverdel/pokemon-data/issues"
+  },
+  "homepage": "https://github.com/dannyverdel/pokemon-data#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.0.3",
+    "fs": "^0.0.1-security",
+    "pokemontcgsdk": "^2.0.0"
+  }
+}
