@@ -49,11 +49,6 @@ const main = async () => {
 
     const json = JSON.stringify(result, null, 2)
 
-    fs.writeFile('./data/data.json', json, (err, result) => {
-        if (err) core.setFailed(err.message)
-        return
-    })
-
     return json
 }
 
