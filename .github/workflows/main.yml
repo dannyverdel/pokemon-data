@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: dannyverdel/pokemon-data
+        uses: dannyverdel/pokemon-data@v1.1
         with:
           update: 'Mona the Octocat'
       # Use the output from the `hello` step
