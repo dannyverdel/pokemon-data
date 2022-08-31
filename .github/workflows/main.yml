@@ -13,3 +13,11 @@ jobs:
         uses: dannyverdel/pokemon-data@v1.1
       - name: Get sets and cards and save them
         run: echo "${{ steps.hello.outputs }}" > ../../data/data.json
+      - name: Commit
+        run: |
+          git config --global user.name "dannyverdel"
+          git config --global user.email "danny.verdel@gmail.com"
+
+          git add -A
+          git commit -m "Ran workflow"
+          git push
