@@ -3,6 +3,8 @@ Public pokemon data
 
 ### Static JSON API
 
+__Base URL:__ [https://dannyverdel.github.io/pokemon-data]()
+
 *   /data/data.json
     Get all the sets from the pokemon trading card game. Each set contains an 'cards' property containing all the cards related to that set.
 *   /data/rarities.json
@@ -17,4 +19,4 @@ Public pokemon data
 ##### Last updated: 31-08-2022
 
 ###### Hosted by github  
-Data from: [https://docs.pokemontcg.io](https://docs.pokemontcg.io)
+###### Data from: [https://docs.pokemontcg.io](https://docs.pokemontcg.io)
