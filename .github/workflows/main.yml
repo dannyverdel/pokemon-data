@@ -1,15 +1,15 @@
-on: [push]
+on: 
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     name: A job to update sets and cards
     steps:
-      - name: Hello world action step
-        id: hello
+      - name: Get Sets action step
+        id: sets
         uses: dannyverdel/pokemon-data@v1.1
-        with:
-          update: 'Mona the Octocat'
-      # Use the output from the `hello` step
-      - name: Get sets and cards
-        run: echo "${{ steps.hello.outputs }}"
+      - name: Checkout repository
+        uses: dannyverdel/pokemon-data@v1.1
+      - name: Get sets and cards and save them
+        run: echo "${{ steps.hello.outputs }}" > ../../data/data.json

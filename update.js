@@ -49,17 +49,11 @@ const main = async () => {
 
     const json = JSON.stringify(result, null, 2)
 
-    fs.writeFile('./data/data.json', json, (err, result) => {
-        if (err) core.setFailed(err.message)
-        return
-    })
-
-    console.log(json)
-    return result
+    return json
 }
 
 try {
-    console.log(main())
+    core.setOutput("sets", main())
     return
 } catch (error) {
     core.setFailed(error.message);
