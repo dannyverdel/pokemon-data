@@ -9,8 +9,6 @@ jobs:
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.1
-      - name: Checkout repository
-        uses: dannyverdel/pokemon-data@v1.1
       - name: Get sets and cards and save them
         run: echo "${{ steps.hello.outputs }}" > ../../data/data.json
       - name: Commit
