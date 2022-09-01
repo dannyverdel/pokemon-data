@@ -10,19 +10,19 @@ jobs:
         id: sets
         uses: dannyverdel/pokemon-data@v1.2
       - name: Show result
-        run: echo ${{ steps.sets.outputs.sets }}
-      - name: Show pat
+        run: echo ${{ steps.sets.outputs.sets.sets }}
+      - name: Set pat
         id: PAT
-        run: echo "::set-output name=PAT::${{ secrets.env.PAT }}"
+        run: echo "::set-output name=PAT::${{ env.PAT }}"
       - name: Echo pat
-        run: echo "${{ steps.PAT.outputs.PAT}}"
+        run: echo "${{ steps.PAT.outputs.PAT }}"
       - name: Update File
         # You may pin to the exact commit or the version.
         # uses: wow-actions/update-file@273eca671cc664c3e61eab7c23e3e378daf28e73
         uses: wow-actions/update-file@v1.0.1
         with:
           # Your GitHub token for authentication.
-          GITHUB_TOKEN: ${{ secrets.env.PAT }}
+          GITHUB_TOKEN: ${{ steps.PAT.outputs.PAT }}
           # File path to update
           path: "../../data/data.son"
           # Content to update the file
