@@ -10,6 +10,6 @@ jobs:
     steps:
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.7
+        uses: dannyverdel/pokemon-data@v1.8
         with:
-          token: "$ACCESS_TOKEN"
+          token: $ACCESS_TOKEN
