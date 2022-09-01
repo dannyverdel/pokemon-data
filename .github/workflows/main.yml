@@ -21,4 +21,4 @@ jobs:
           # File path to update
           path: "../../data/data.son"
           # Content to update the file
-          content: ${{ steps.sets.outputs.sets }}
+          content: "${{ steps.sets.outputs.sets }}"
