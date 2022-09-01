@@ -1,4 +1,6 @@
 on: 
+  schedule:
+    - cron: 0 0 * * *
   workflow_dispatch:
 
 jobs:
@@ -13,6 +15,6 @@ jobs:
         run: echo "::set-output name=PAT::$ACCESS_TOKEN"
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.8
+        uses: dannyverdel/pokemon-data@v1.0.1
         with:
           token: ${{steps.PAT.outputs.PAT}}
