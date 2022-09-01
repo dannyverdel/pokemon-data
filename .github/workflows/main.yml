@@ -12,7 +12,10 @@ jobs:
       - name: Show result
         run: echo ${{ steps.sets.outputs.sets }}
       - name: Show pat
-        run: echo ${{ secrets.env.PAT }}
+        id: PAT
+        run: echo "::set-output name=PAT::HELLO"
+      - name: Echo pat
+        run: echo "${{ steps.PAT.outputs.PAT}}"
       - name: Update File
         # You may pin to the exact commit or the version.
         # uses: wow-actions/update-file@273eca671cc664c3e61eab7c23e3e378daf28e73
