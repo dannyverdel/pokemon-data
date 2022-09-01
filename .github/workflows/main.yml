@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Set PAT token
         id: PAT
-        run: echo "::set-output name=PAT:$ACCESS_TOKEN"
+        run: echo "::set-output name=PAT::$ACCESS_TOKEN"
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.8
