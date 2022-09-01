@@ -52,7 +52,7 @@ const main = async () => {
     const json = JSON.stringify(result, null, 2)
 
     return json
-}
+}``
 
 try {
     main().then(data => {
