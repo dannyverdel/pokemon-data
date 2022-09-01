@@ -11,19 +11,19 @@ jobs:
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.5
-      - name: Truncate String
-        uses: 2428392/gh-truncate-string-action@v1.1.0
+      - name: Overwrite file
+        uses: "DamianReeves/write-file-action@master"
         with:
-          # String to be truncated
-          stringToTruncate: "${{ steps.sets.outputs.sets }}"
-          # Max length of the string
-          maxLength: 65500
-      - name: Update File
-        uses: wow-actions/update-file@v1.0.1
-        with:
-          # Your GitHub token for authentication.
-          GITHUB_TOKEN: $ACCESS_TOKEN
-          # File path to update
-          path: "../../data/data.son"
-          # Content to update the file
-          content: ${{ steps.sets.outputs.sets }}
+          path: ../../data/data.json
+          write-mode: overwrite
+          contents: |
+            console.log('some contents')
+#       - name: Update File
+#         uses: wow-actions/update-file@v1.0.1
+#         with:
+#           # Your GitHub token for authentication.
+#           GITHUB_TOKEN: $ACCESS_TOKEN
+#           # File path to update
+#           path: "../../data/data.son"
+#           # Content to update the file
+#           content: ${{ steps.sets.outputs.sets }}
