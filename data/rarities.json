@@ -1,11 +1,12 @@
 [
+    "Common",
+    "Uncommon",
+    "Rare",
     "Amazing Rare",
     "Classic Collection",
-    "Common",
     "LEGEND",
     "Promo",
     "Radiant Rare",
-    "Rare",
     "Rare ACE",
     "Rare BREAK",
     "Rare Holo",
@@ -24,7 +25,6 @@
     "Rare Shiny",
     "Rare Shiny GX",
     "Rare Ultra",
-    "Uncommon",
     "V",
     "VM"
 ]
