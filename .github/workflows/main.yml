@@ -11,13 +11,15 @@ jobs:
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.5
+      - name: Checkout repo
+        uses: dannyverdel/pokemon-data@v1.5
       - name: Overwrite file
         uses: "DamianReeves/write-file-action@master"
         with:
           path: ../../data/data.json
           write-mode: overwrite
           contents: |
-            Hello World!
+            ${{steps.sets.outputs.sets}}
       - name: Commit & Push
         uses: dannyverdel/pokemon-data@v1.5
         with:
