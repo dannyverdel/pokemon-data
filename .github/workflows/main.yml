@@ -12,4 +12,4 @@ jobs:
         id: sets
         uses: dannyverdel/pokemon-data@v1.8
         with:
-          token: "$ACCESS_TOKEN"
+          token: $ACCESS_TOKEN
