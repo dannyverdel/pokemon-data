@@ -8,12 +8,12 @@ jobs:
     steps:
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.2
+        uses: dannyverdel/pokemon-data@v1.3
       - name: Show result
         run: echo ${{ steps.sets.outputs.sets }}
       - name: Set pat
         id: PAT
-        run: echo "::set-output name=PAT::${{ secrets.PAT }}"
+        run: echo "::set-output name=PAT::${{ secrets.env.PAT }}"
       - name: Echo pat
         run: echo "${{ steps.PAT.outputs.PAT }}"
       - name: Update File
