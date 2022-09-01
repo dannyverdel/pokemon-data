@@ -1,8 +1,10 @@
 const core = require('@actions/core');
-const github = require('@actions/github');
 const pokemon = require('pokemontcgsdk')
-const fs = require('fs')
-const { exec } = require("child_process");
+const { Octokit } = require('@octokit/rest')
+const Base64 = require('js-base64')
+require("dotenv/config");
+
+var octokit = undefined
 
 const GetSets = async () => {
     const sets = await pokemon.set.all()
@@ -37,6 +39,7 @@ const AssignCards = async (sets) => {
     }
 }
 
+
 function delay(time) {
     return new Promise(resolve => setTimeout(resolve, time));
 }
@@ -52,50 +55,54 @@ const main = async () => {
     const json = JSON.stringify(result, null, 2)
 
     return json
-}``
+}
 
-try {
-    main().then(data => {
-        fs.writeFile('./data/data.json', data, (err, data) => {
-            if(err) {
-                core.setFailed(err.message)
-                return
-            }
-        })
-        core.setOutput("sets", data)
+async function GetSHA(path) {
+    const result = await octokit.request(`GET /repos/dannyverdel/pokemon-data/contents/data/data.json`, {
+        owner: 'dannyverdel',
+        repo: 'pokemon-data',
+        path: 'data/data.json'
     })
 
-    exec("git add .", (error, stdout, stderr) => {
-        if (error) {
-            core.setOutput(`error: ${error.message}`);
-            return;
-        }
-        if (stderr) {
-            core.setOutput(`stderr: ${stderr}`);
-            return;
-        }
+    const sha = result?.data?.sha;
+
+    return sha;
+}
+
+async function Commit(data) {
+    const sha = await GetSHA(`data/data.json`);
+
+    const result = await octokit.request(`PUT /repos/dannyverdel/pokemon-data/contents/data/data.json`, {
+        owner: 'dannyverdel',
+        repo: 'pokemon-data',
+        path: `data/data.json`,
+        message: 'update of data',
+        committer: {
+            name: 'dannyverdel',
+            email: 'danny.verdel@gmail.com'
+        },
+        content: Base64.encode(
+            `${data}`
+        ),
+        sha: sha
+    })
+
+    return result?.status || 500;
+}
+
+try {
+    const token = core.getInput('token')
+    octokit = new Octokit({
+        auth: token,
     });
-    exec('git commit -m "Update data"', (error, stdout, stderr) => {
-        if (error) {
-            core.setOutput(`error: ${error.message}`);
-            return;
-        }
-        if (stderr) {
-            core.setOutput(`stderr: ${stderr}`);
-            return;
-        }
-    });
-    exec("git push", (error, stdout, stderr) => {
-        if (error) {
-            core.setOutput(`error: ${error.message}`);
-            return;
-        }
-        if (stderr) {
-            core.setOutput(`stderr: ${stderr}`);
-            return;
-        }
-    });
-    
+
+    main().then(data => {
+        Commit(data).then(res => {
+            console.log(res)
+        })
+        core.setOutput("success", 'success')
+    })
+
     return
 } catch (error) {
     core.setFailed(error.message);
