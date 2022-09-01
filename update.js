@@ -22,6 +22,7 @@ const AssignCards = async (sets) => {
                 delete item.legalities
                 delete item.abilities
                 delete item.tcgplayer
+                delete item.rules
                 return item;
             });
             result.push(sets[i])
