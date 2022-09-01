@@ -47,7 +47,7 @@ const main = async () => {
         return
     }
 
-    const json = JSON.stringify(result, null, 2)
+    const json = JSON.stringify(result)
 
     return json
 }
