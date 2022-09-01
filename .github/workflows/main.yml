@@ -10,9 +10,9 @@ jobs:
         id: sets
         uses: dannyverdel/pokemon-data@v1.2
       - name: Show result
-        run: echo "${{ steps.sets.outputs }}"
+        run: echo ${{ steps.sets.outputs }}
       - name: Show pat
-        run: echo "${{ secrets.PAT }}
+        run: echo ${{ secrets.PAT }}
       - name: Update File
         # You may pin to the exact commit or the version.
         # uses: wow-actions/update-file@273eca671cc664c3e61eab7c23e3e378daf28e73
@@ -23,4 +23,4 @@ jobs:
           # File path to update
           path: "../../data/data.son"
           # Content to update the file
-          content: "${{ steps.sets.outputs.sets }}"
+          content: ${{ steps.sets.outputs.sets }}
