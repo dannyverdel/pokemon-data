@@ -10,7 +10,7 @@ jobs:
         id: sets
         uses: dannyverdel/pokemon-data@v1.5
       - name: Show result
-        run: echo "${{ steps.sets.outputs.sets }}"
+        run: echo ${{ steps.sets.outputs.sets }}
       - name: Set pat
         id: PAT
         run: echo "::set-output name=PAT::${{ secrets.env.PAT }}"
