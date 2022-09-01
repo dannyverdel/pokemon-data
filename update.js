@@ -14,7 +14,7 @@ const GetSets = async () => {
 const AssignCards = async (sets) => {
     try {
         const result = []
-        for (let i = 0; i < 2; i++) {
+        for (let i = 0; i < sets.length; i++) {
             console.log(sets[i].id)
             const cards = await pokemon.card.where({ q: `set.id:${sets[i].id}` })
             sets[i].cards = cards.data
