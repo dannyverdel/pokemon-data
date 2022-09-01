@@ -10,29 +10,4 @@ jobs:
     steps:
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.5
-      - name: Checkout repo
-        uses: dannyverdel/pokemon-data@v1.5
-      - name: Overwrite file
-        uses: "DamianReeves/write-file-action@master"
-        with:
-          path: ../../data/data.json
-          write-mode: overwrite
-          contents: |
-            ${{steps.sets.outputs.sets}}
-      - name: Commit & Push
-        uses: dannyverdel/pokemon-data@v1.5
-        with:
-          github_token: $ACCESS_TOKEN
-          branch: main
-          force: true
-          message: 'Overwritten by Github Actions - ${date}'
-#       - name: Update File
-#         uses: wow-actions/update-file@v1.0.1
-#         with:
-#           # Your GitHub token for authentication.
-#           GITHUB_TOKEN: $ACCESS_TOKEN
-#           # File path to update
-#           path: "../../data/data.son"
-#           # Content to update the file
-#           content: ${{ steps.sets.outputs.sets }}
+        uses: dannyverdel/pokemon-data@v1.6
