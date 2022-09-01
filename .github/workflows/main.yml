@@ -13,7 +13,7 @@ jobs:
         run: echo ${{ steps.sets.outputs.sets }}
       - name: Show pat
         id: PAT
-        run: echo "::set-output name=PAT::HELLO"
+        run: echo "::set-output name=PAT::${{ secrets.env.PAT }}"
       - name: Echo pat
         run: echo "${{ steps.PAT.outputs.PAT}}"
       - name: Update File
