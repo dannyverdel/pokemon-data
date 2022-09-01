@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.4
+        uses: dannyverdel/pokemon-data@v1.5
       - name: Show result
         run: echo "${{ steps.sets.outputs.sets }}"
       - name: Set pat
