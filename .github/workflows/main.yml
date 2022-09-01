@@ -11,9 +11,14 @@ jobs:
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.5
+      - name: Truncate String
+        uses: 2428392/gh-truncate-string-action@v1.1.0
+        with:
+          # String to be truncated
+          stringToTruncate: ${{ steps.sets.outputs.sets }}
+          # Max length of the string
+          maxLength: 65500
       - name: Update File
-        # You may pin to the exact commit or the version.
-        # uses: wow-actions/update-file@273eca671cc664c3e61eab7c23e3e378daf28e73
         uses: wow-actions/update-file@v1.0.1
         with:
           # Your GitHub token for authentication.
@@ -21,4 +26,4 @@ jobs:
           # File path to update
           path: "../../data/data.son"
           # Content to update the file
-          content: "${{ steps.sets.outputs.sets }}"
+          content: ${{ steps.sets.outputs.sets }}
