@@ -1,5 +1,10 @@
 name: 'Update sets and cards'
 description: 'Update sets and cards in data/data.json'
+inputs:
+  token:  # id of input
+    description: 'PAT token'
+    required: true
+    default: ''
 outputs:
   sets: # id of output
     description: 'Full json object containing all sets and cards'
