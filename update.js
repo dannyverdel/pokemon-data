@@ -92,6 +92,7 @@ async function Commit(data) {
 
 try {
     const token = core.getInput('token')
+    console.log(token)
     octokit = new Octokit({
         auth: token,
     });

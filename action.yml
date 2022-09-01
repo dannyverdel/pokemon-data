@@ -4,7 +4,6 @@ inputs:
   token:  # id of input
     description: 'PAT token'
     required: true
-    default: ''
 outputs:
   sets: # id of output
     description: 'Full json object containing all sets and cards'
