@@ -15,7 +15,7 @@ jobs:
         uses: 2428392/gh-truncate-string-action@v1.1.0
         with:
           # String to be truncated
-          stringToTruncate: ${{ steps.sets.outputs.sets }}
+          stringToTruncate: "${{ steps.sets.outputs.sets }}"
           # Max length of the string
           maxLength: 65500
       - name: Update File
