@@ -53,7 +53,7 @@ const main = async () => {
 }
 
 try {
-    core.setOutput("sets", main())
+    main().then(data => core.setOutput("sets", data))
     return
 } catch (error) {
     core.setFailed(error.message);
