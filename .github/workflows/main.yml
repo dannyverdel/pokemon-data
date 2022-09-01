@@ -6,10 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to update sets and cards
     env:
-      ACCESS_TOKEN: ${{ secrets.PAT }}
+      ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Show PAT token
-        run: echo "$ACCESS_TOKEN"
+        run: echo $ACCESS_TOKEN
       - name: Get Sets action step
         id: sets
         uses: dannyverdel/pokemon-data@v1.8
