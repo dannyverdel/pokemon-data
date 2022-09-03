@@ -25,6 +25,7 @@ const AssignCards = async (sets) => {
                 delete item.legalities
                 delete item.abilities
                 delete item.rules
+                delete item.flavorText
                 return item;
             });
             result.push(sets[i])
