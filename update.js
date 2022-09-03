@@ -24,12 +24,11 @@ const AssignCards = async (sets) => {
                 delete item.retreatCost
                 delete item.legalities
                 delete item.abilities
-                delete item.tcgplayer
                 delete item.rules
                 return item;
             });
             result.push(sets[i])
-            await delay(1000)
+            await delay(2000)
         }
 
         return result
@@ -38,7 +37,7 @@ const AssignCards = async (sets) => {
         return undefined
     }
 }
-
+``
 
 function delay(time) {
     return new Promise(resolve => setTimeout(resolve, time));
