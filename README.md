@@ -18,7 +18,6 @@ __Base URL:__ [https://dannyverdel.github.io/pokemon-data](https://dannyverdel.g
 *   __/data/sealed-products.json__ \
     Get sealed products and their prices.
 
-##### Last updated: 07-09-2022
-
+###### Updates at 00:00 utc every day.
 ###### Hosted by github  
 ###### Data from: [https://docs.pokemontcg.io](https://docs.pokemontcg.io)
