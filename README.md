@@ -1,4 +1,4 @@
-Public pokemon data
+Public pokemon data [![.github/workflows/main.yml](https://github.com/dannyverdel/pokemon-data/actions/workflows/main.yml/badge.svg)](https://github.com/dannyverdel/pokemon-data/actions/workflows/main.yml)
 ===================
 
 ### Static JSON API
