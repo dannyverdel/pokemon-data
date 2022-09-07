@@ -5,20 +5,20 @@ Public pokemon data
 
 __Base URL:__ [https://dannyverdel.github.io/pokemon-data](https://dannyverdel.github.io/pokemon-data)
 
-*   /data/data.json
+*   __/data/data.json__ \
     Get all the sets from the pokemon trading card game. Each set contains an 'cards' property containing all the cards related to that set.
-*   /data/rarities.json
+*   __/data/rarities.json__ \
     Get all the unique rarities.
-*   /data/subtypes.json
+*   __/data/subtypes.json__ \
     Get all the subtypes.
-*   /data/supertypes.json
+*   __/data/supertypes.json__ \
     Get all the supertypes.
-*   /data/types.json
+*   __/data/types.json__ \
     Get all the different pokemon types.
-*   /data/sealed-products.json
+*   __/data/sealed-products.json__ \
     Get sealed products and their prices.
 
-##### Last updated: 02-09-2022
+##### Last updated: 07-09-2022
 
 ###### Hosted by github  
 ###### Data from: [https://docs.pokemontcg.io](https://docs.pokemontcg.io)
