@@ -95,7 +95,7 @@ const GetPackPrices = async () => {
         }
     })
 
-    return res
+    return JSON.stringify(res, null, 2)
 }
 
 module.exports.GetPackPrices = GetPackPrices
