@@ -3,6 +3,7 @@ const pokemon = require('pokemontcgsdk')
 const { Octokit } = require('@octokit/rest')
 const Base64 = require('js-base64')
 require("dotenv/config");
+const { GetPackPrices } = require('./loadsealedproducts')
 
 var octokit = undefined
 
@@ -15,7 +16,6 @@ const AssignCards = async (sets) => {
     try {
         const result = []
         for (let i = 0; i < sets.length; i++) {
-            console.log(sets[i].id)
             const cards = await pokemon.card.where({ q: `set.id:${sets[i].id}` })
             sets[i].cards = cards.data
             sets[i].cards.map(function (item) {
@@ -57,11 +57,11 @@ const main = async () => {
     return json
 }
 
-async function GetSHA(path) {
-    const result = await octokit.request(`GET /repos/dannyverdel/pokemon-data/contents/data/data.json`, {
+async function GetSHA(file, path) {
+    const result = await octokit.request(`GET /repos/dannyverdel/pokemon-data/contents/data/${file}.json`, {
         owner: 'dannyverdel',
         repo: 'pokemon-data',
-        path: 'data/data.json'
+        path: `data/${file}.json`
     })
 
     const sha = result?.data?.sha;
@@ -69,13 +69,13 @@ async function GetSHA(path) {
     return sha;
 }
 
-async function Commit(data) {
-    const sha = await GetSHA(`data/data.json`);
+async function Commit(file, data) {
+    const sha = await GetSHA(file);
 
-    const result = await octokit.request(`PUT /repos/dannyverdel/pokemon-data/contents/data/data.json`, {
+    const result = await octokit.request(`PUT /repos/dannyverdel/pokemon-data/contents/data/${file}.json`, {
         owner: 'dannyverdel',
         repo: 'pokemon-data',
-        path: `data/data.json`,
+        path: `data/${file}.json`,
         message: 'update of data',
         committer: {
             name: 'dannyverdel',
@@ -95,13 +95,19 @@ try {
     octokit = new Octokit({
         auth: token,
     });
-
-    main().then(data => {
-        Commit(data).then(res => {
-            console.log(res)
+    console.log('Starting main()...')
+    main().then(sets => {
+        Commit('data', sets).then(res => {
+            console.log('Starting GetPackPrices()...')
+            GetPackPrices().then(packs => {
+                Commit('sealed-products', packs).then(res => {
+                    console.log(res)
+                    core.setOutput("success", 'success')
+                })
+            })
         })
-        core.setOutput("success", 'success')
     })
+
 
     return
 } catch (error) {

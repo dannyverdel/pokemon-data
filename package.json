@@ -21,9 +21,13 @@
     "@actions/core": "^1.9.1",
     "@actions/github": "^5.0.3",
     "@octokit/rest": "^19.0.4",
+    "axios": "^0.27.2",
+    "document": "^0.4.7",
+    "domparser": "^0.1.1",
     "dotenv": "^16.0.2",
     "fs": "^0.0.1-security",
     "js-base64": "^3.7.2",
+    "jsdom": "^20.0.0",
     "pokemontcgsdk": "^2.0.0"
   }
 }
