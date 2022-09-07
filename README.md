@@ -15,6 +15,8 @@ __Base URL:__ [https://dannyverdel.github.io/pokemon-data](https://dannyverdel.g
     Get all the supertypes.
 *   /data/types.json
     Get all the different pokemon types.
+*   /data/sealed-products.json
+    Get sealed products and their prices.
 
 ##### Last updated: 02-09-2022
 
