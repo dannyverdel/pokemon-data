@@ -16,7 +16,9 @@ __Base URL:__ [https://dannyverdel.github.io/pokemon-data](https://dannyverdel.g
 *   __/data/types.json__ \
     Get all the different pokemon types.
 *   __/data/sealed-products.json__ \
-    Get sealed products and their prices.
+    Get sealed products and their prices. [source](https://www.cardmarket.com/en/Pokemon)
+*   __/data/pull-rates.json__ \
+    Get detailed pull rates and card order information for each pack. [source](https://github.com/Pepper0ni/TTS-PTCG-Pack-Simulator)
 
 ###### Updates at 00:00 utc every day.
 ###### Hosted by github  
