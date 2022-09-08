@@ -486,12 +486,6 @@
     "setid": "bw6"
   },
   {
-    "name": "Dragon Vault Booster",
-    "price": 33,
-    "id": 82,
-    "setid": "dv1"
-  },
-  {
     "name": "Boundaries Crossed Booster",
     "price": 16,
     "id": 83,
@@ -688,12 +682,6 @@
     "price": 4,
     "id": 115,
     "setid": "sm7"
-  },
-  {
-    "name": "Dragon Majesty Booster",
-    "price": 11,
-    "id": 116,
-    "setid": "sm75"
   },
   {
     "name": "Lost Thunder Booster",
