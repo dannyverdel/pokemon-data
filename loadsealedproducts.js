@@ -89,6 +89,7 @@ const GetPackPrices = async () => {
             ) {
                 obj[i].id = id
                 obj[i].setid = x.id
+                obj[i].images = x.images
                 id++
                 res.push(obj[i])
             }
