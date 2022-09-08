@@ -3,834 +3,1390 @@
     "name": "Base Set Booster Box",
     "price": 10000,
     "id": 1,
-    "setid": "base1"
+    "setid": "base1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+      "logo": "https://images.pokemontcg.io/base1/logo.png"
+    }
   },
   {
     "name": "Base Set Booster",
     "price": 118,
     "id": 2,
-    "setid": "base1"
+    "setid": "base1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+      "logo": "https://images.pokemontcg.io/base1/logo.png"
+    }
   },
   {
     "name": "Jungle Booster Box",
     "price": 5000,
     "id": 3,
-    "setid": "base2"
+    "setid": "base2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base2/symbol.png",
+      "logo": "https://images.pokemontcg.io/base2/logo.png"
+    }
   },
   {
     "name": "Jungle Booster",
     "price": 130,
     "id": 4,
-    "setid": "base2"
+    "setid": "base2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base2/symbol.png",
+      "logo": "https://images.pokemontcg.io/base2/logo.png"
+    }
   },
   {
     "name": "Fossil Booster Box",
     "price": 7300,
     "id": 5,
-    "setid": "base3"
+    "setid": "base3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+      "logo": "https://images.pokemontcg.io/base3/logo.png"
+    }
   },
   {
     "name": "Fossil Booster",
     "price": 139,
     "id": 6,
-    "setid": "base3"
+    "setid": "base3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+      "logo": "https://images.pokemontcg.io/base3/logo.png"
+    }
   },
   {
     "name": "Base Set 2 Booster Box",
     "price": 9999,
     "id": 7,
-    "setid": "base4"
+    "setid": "base4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base4/symbol.png",
+      "logo": "https://images.pokemontcg.io/base4/logo.png"
+    }
   },
   {
     "name": "Base Set 2 Booster",
     "price": 209,
     "id": 8,
-    "setid": "base4"
+    "setid": "base4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base4/symbol.png",
+      "logo": "https://images.pokemontcg.io/base4/logo.png"
+    }
   },
   {
     "name": "Team Rocket Booster Box",
     "price": 9850,
     "id": 9,
-    "setid": "base5"
+    "setid": "base5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base5/symbol.png",
+      "logo": "https://images.pokemontcg.io/base5/logo.png"
+    }
   },
   {
     "name": "Team Rocket Booster",
     "price": 175,
     "id": 10,
-    "setid": "base5"
+    "setid": "base5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base5/symbol.png",
+      "logo": "https://images.pokemontcg.io/base5/logo.png"
+    }
   },
   {
     "name": "Gym Heroes Booster Box",
     "price": 9999,
     "id": 11,
-    "setid": "gym1"
+    "setid": "gym1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/gym1/symbol.png",
+      "logo": "https://images.pokemontcg.io/gym1/logo.png"
+    }
   },
   {
     "name": "Gym Heroes Booster",
     "price": 130,
     "id": 12,
-    "setid": "gym1"
+    "setid": "gym1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/gym1/symbol.png",
+      "logo": "https://images.pokemontcg.io/gym1/logo.png"
+    }
   },
   {
     "name": "Gym Challenge Booster Box",
     "price": 17499,
     "id": 13,
-    "setid": "gym2"
+    "setid": "gym2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/gym2/symbol.png",
+      "logo": "https://images.pokemontcg.io/gym2/logo.png"
+    }
   },
   {
     "name": "Gym Challenge Booster",
     "price": 200,
     "id": 14,
-    "setid": "gym2"
+    "setid": "gym2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/gym2/symbol.png",
+      "logo": "https://images.pokemontcg.io/gym2/logo.png"
+    }
   },
   {
     "name": "Neo Genesis Booster Box",
     "price": 22000,
     "id": 15,
-    "setid": "neo1"
+    "setid": "neo1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo1/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo1/logo.png"
+    }
   },
   {
     "name": "Neo Genesis Booster",
     "price": 275,
     "id": 16,
-    "setid": "neo1"
+    "setid": "neo1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo1/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo1/logo.png"
+    }
   },
   {
     "name": "Neo Discovery Booster Box",
     "price": 13999,
     "id": 17,
-    "setid": "neo2"
+    "setid": "neo2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo2/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo2/logo.png"
+    }
   },
   {
     "name": "Neo Discovery Booster",
     "price": 195,
     "id": 18,
-    "setid": "neo2"
+    "setid": "neo2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo2/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo2/logo.png"
+    }
   },
   {
     "name": "Neo Revelation Booster Box",
     "price": 23000,
     "id": 19,
-    "setid": "neo3"
+    "setid": "neo3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo3/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo3/logo.png"
+    }
   },
   {
     "name": "Neo Revelation Booster",
     "price": 220,
     "id": 20,
-    "setid": "neo3"
+    "setid": "neo3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo3/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo3/logo.png"
+    }
   },
   {
     "name": "Neo Destiny Booster Box",
     "price": 49999,
     "id": 21,
-    "setid": "neo4"
+    "setid": "neo4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo4/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo4/logo.png"
+    }
   },
   {
     "name": "Neo Destiny Booster",
     "price": 500,
     "id": 22,
-    "setid": "neo4"
+    "setid": "neo4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/neo4/symbol.png",
+      "logo": "https://images.pokemontcg.io/neo4/logo.png"
+    }
   },
   {
     "name": "Legendary Collection Booster Box",
     "price": 52500,
     "id": 23,
-    "setid": "base6"
+    "setid": "base6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+      "logo": "https://images.pokemontcg.io/base6/logo.png"
+    }
   },
   {
     "name": "Legendary Collection Booster",
     "price": 759,
     "id": 24,
-    "setid": "base6"
+    "setid": "base6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+      "logo": "https://images.pokemontcg.io/base6/logo.png"
+    }
   },
   {
     "name": "Expedition Base Set Booster Box",
     "price": 35000,
     "id": 25,
-    "setid": "ecard1"
+    "setid": "ecard1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+    }
   },
   {
     "name": "Expedition Base Set Booster",
     "price": 220,
     "id": 26,
-    "setid": "ecard1"
+    "setid": "ecard1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+    }
   },
   {
     "name": "Aquapolis Booster Box",
     "price": 29999,
     "id": 27,
-    "setid": "ecard2"
+    "setid": "ecard2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard2/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard2/logo.png"
+    }
   },
   {
     "name": "Aquapolis Booster",
     "price": 300,
     "id": 28,
-    "setid": "ecard2"
+    "setid": "ecard2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard2/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard2/logo.png"
+    }
   },
   {
     "name": "Skyridge Booster Box",
     "price": null,
     "id": 29,
-    "setid": "ecard3"
+    "setid": "ecard3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard3/logo.png"
+    }
   },
   {
     "name": "Skyridge Booster",
     "price": 440,
     "id": 30,
-    "setid": "ecard3"
+    "setid": "ecard3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ecard3/logo.png"
+    }
   },
   {
     "name": "Dragon Storm Booster Box",
     "price": 210,
     "id": 31,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Blade Booster Box",
     "price": null,
     "id": 32,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Blast Booster Box",
     "price": null,
     "id": 33,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Selection Booster Box",
     "price": 1500,
     "id": 34,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Majesty Booster",
     "price": 11,
     "id": 116,
-    "setid": "sm75"
+    "setid": "sm75",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm75/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm75/logo.png"
+    }
   },
   {
     "name": "Dragon Vault Booster",
     "price": 33,
     "id": 82,
-    "setid": "dv1"
+    "setid": "dv1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
+      "logo": "https://images.pokemontcg.io/dv1/logo.png"
+    }
   },
   {
     "name": "Dragon Storm Booster",
     "price": 5,
     "id": 37,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Selection Booster",
     "price": 125,
     "id": 38,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Blade Booster",
     "price": null,
     "id": 39,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "Dragon Blast Booster",
     "price": null,
     "id": 40,
-    "setid": "ex3"
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
+    }
   },
   {
     "name": "POP Series 1 Booster",
     "price": 22,
     "id": 41,
-    "setid": "pop1"
+    "setid": "pop1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop1/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop1/logo.png"
+    }
   },
   {
     "name": "Emerald Break Booster Box",
     "price": null,
     "id": 42,
-    "setid": "ex9"
+    "setid": "ex9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex9/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex9/logo.png"
+    }
   },
   {
     "name": "Emerald Break Booster",
     "price": 40,
     "id": 43,
-    "setid": "ex9"
+    "setid": "ex9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex9/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex9/logo.png"
+    }
   },
   {
     "name": "POP Series 2 Booster",
     "price": 22,
     "id": 44,
-    "setid": "pop2"
+    "setid": "pop2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop2/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop2/logo.png"
+    }
   },
   {
     "name": "POP Series 3 Booster",
     "price": 17,
     "id": 45,
-    "setid": "pop3"
+    "setid": "pop3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop3/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop3/logo.png"
+    }
   },
   {
     "name": "POP Series 4 Booster",
     "price": 48,
     "id": 46,
-    "setid": "pop4"
+    "setid": "pop4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop4/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop4/logo.png"
+    }
   },
   {
     "name": "POP Series 5 Booster",
     "price": 500,
     "id": 47,
-    "setid": "pop5"
+    "setid": "pop5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop5/logo.png"
+    }
   },
   {
     "name": "Diamond & Pearl Booster Box",
     "price": 395,
     "id": 48,
-    "setid": "dp1"
+    "setid": "dp1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp1/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp1/logo.png"
+    }
   },
   {
     "name": "Diamond & Pearl Booster",
     "price": 87,
     "id": 49,
-    "setid": "dp1"
+    "setid": "dp1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp1/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp1/logo.png"
+    }
   },
   {
     "name": "Mysterious Treasures Booster Box",
     "price": 350,
     "id": 50,
-    "setid": "dp2"
+    "setid": "dp2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp2/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp2/logo.png"
+    }
   },
   {
     "name": "Mysterious Treasures Booster",
     "price": 60,
     "id": 51,
-    "setid": "dp2"
+    "setid": "dp2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp2/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp2/logo.png"
+    }
   },
   {
     "name": "POP Series 6 Booster",
     "price": 18,
     "id": 52,
-    "setid": "pop6"
+    "setid": "pop6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop6/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop6/logo.png"
+    }
   },
   {
     "name": "Secret Wonders Booster Box",
     "price": 8999,
     "id": 53,
-    "setid": "dp3"
+    "setid": "dp3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp3/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp3/logo.png"
+    }
   },
   {
     "name": "Secret Wonders Booster",
     "price": 30,
     "id": 54,
-    "setid": "dp3"
+    "setid": "dp3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp3/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp3/logo.png"
+    }
   },
   {
     "name": "Great Encounters Booster Box",
     "price": 4499,
     "id": 55,
-    "setid": "dp4"
+    "setid": "dp4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp4/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp4/logo.png"
+    }
   },
   {
     "name": "Great Encounters Booster",
     "price": 75,
     "id": 56,
-    "setid": "dp4"
+    "setid": "dp4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp4/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp4/logo.png"
+    }
   },
   {
     "name": "POP Series 7 Booster",
     "price": 19,
     "id": 57,
-    "setid": "pop7"
+    "setid": "pop7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop7/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop7/logo.png"
+    }
   },
   {
     "name": "Majestic Dawn Booster Box",
     "price": null,
     "id": 58,
-    "setid": "dp5"
+    "setid": "dp5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp5/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp5/logo.png"
+    }
   },
   {
     "name": "Majestic Dawn Booster",
     "price": 60,
     "id": 59,
-    "setid": "dp5"
+    "setid": "dp5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp5/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp5/logo.png"
+    }
   },
   {
     "name": "Legends Awakened Booster Box",
     "price": 4500,
     "id": 60,
-    "setid": "dp6"
+    "setid": "dp6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp6/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp6/logo.png"
+    }
   },
   {
     "name": "Legends Awakened Booster",
     "price": 60,
     "id": 61,
-    "setid": "dp6"
+    "setid": "dp6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp6/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp6/logo.png"
+    }
   },
   {
     "name": "POP Series 8 Booster",
     "price": 22,
     "id": 62,
-    "setid": "pop8"
+    "setid": "pop8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop8/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop8/logo.png"
+    }
   },
   {
     "name": "Stormfront Booster Box",
     "price": 8800,
     "id": 63,
-    "setid": "dp7"
+    "setid": "dp7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp7/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp7/logo.png"
+    }
   },
   {
     "name": "Stormfront Booster",
     "price": 58,
     "id": 64,
-    "setid": "dp7"
+    "setid": "dp7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dp7/symbol.png",
+      "logo": "https://images.pokemontcg.io/dp7/logo.png"
+    }
   },
   {
     "name": "Platinum Booster Box",
     "price": 6000,
     "id": 65,
-    "setid": "pl1"
+    "setid": "pl1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl1/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl1/logo.png"
+    }
   },
   {
     "name": "Platinum Booster",
     "price": 74,
     "id": 66,
-    "setid": "pl1"
+    "setid": "pl1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl1/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl1/logo.png"
+    }
   },
   {
     "name": "POP Series 9 Booster",
     "price": 14,
     "id": 67,
-    "setid": "pop9"
+    "setid": "pop9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pop9/symbol.png",
+      "logo": "https://images.pokemontcg.io/pop9/logo.png"
+    }
   },
   {
     "name": "Rising Rivals Booster Box",
     "price": null,
     "id": 68,
-    "setid": "pl2"
+    "setid": "pl2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl2/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl2/logo.png"
+    }
   },
   {
     "name": "Rising Rivals Booster",
     "price": 36,
     "id": 69,
-    "setid": "pl2"
+    "setid": "pl2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl2/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl2/logo.png"
+    }
   },
   {
     "name": "Supreme Victors Booster Box",
     "price": 12000,
     "id": 70,
-    "setid": "pl3"
+    "setid": "pl3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl3/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl3/logo.png"
+    }
   },
   {
     "name": "Supreme Victors Booster",
     "price": 41,
     "id": 71,
-    "setid": "pl3"
+    "setid": "pl3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl3/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl3/logo.png"
+    }
   },
   {
     "name": "Arceus Booster",
     "price": 29,
     "id": 72,
-    "setid": "pl4"
+    "setid": "pl4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pl4/symbol.png",
+      "logo": "https://images.pokemontcg.io/pl4/logo.png"
+    }
   },
   {
     "name": "HeartGold & SoulSilver Booster",
     "price": 29,
     "id": 73,
-    "setid": "hgss1"
+    "setid": "hgss1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/hgss1/symbol.png",
+      "logo": "https://images.pokemontcg.io/hgss1/logo.png"
+    }
   },
   {
     "name": "Call of Legends Booster",
     "price": 80,
     "id": 74,
-    "setid": "col1"
+    "setid": "col1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/col1/symbol.png",
+      "logo": "https://images.pokemontcg.io/col1/logo.png"
+    }
   },
   {
     "name": "Black & White Booster",
     "price": 17,
     "id": 75,
-    "setid": "bw1"
+    "setid": "bw1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw1/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw1/logo.png"
+    }
   },
   {
     "name": "Emerging Powers Booster",
     "price": 14,
     "id": 76,
-    "setid": "bw2"
+    "setid": "bw2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw2/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw2/logo.png"
+    }
   },
   {
     "name": "Noble Victories Booster",
     "price": 7,
     "id": 77,
-    "setid": "bw3"
+    "setid": "bw3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw3/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw3/logo.png"
+    }
   },
   {
     "name": "Next Destinies Booster",
     "price": 19,
     "id": 78,
-    "setid": "bw4"
+    "setid": "bw4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw4/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw4/logo.png"
+    }
   },
   {
     "name": "Dark Explorers Booster Box",
     "price": 2999,
     "id": 79,
-    "setid": "bw5"
+    "setid": "bw5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw5/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw5/logo.png"
+    }
   },
   {
     "name": "Dark Explorers Booster",
     "price": 22,
     "id": 80,
-    "setid": "bw5"
+    "setid": "bw5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw5/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw5/logo.png"
+    }
   },
   {
     "name": "Dragons Exalted Booster",
     "price": 22,
     "id": 81,
-    "setid": "bw6"
+    "setid": "bw6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw6/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw6/logo.png"
+    }
   },
   {
     "name": "Boundaries Crossed Booster",
     "price": 16,
     "id": 83,
-    "setid": "bw7"
+    "setid": "bw7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw7/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw7/logo.png"
+    }
   },
   {
     "name": "Plasma Storm Booster",
     "price": 29,
     "id": 84,
-    "setid": "bw8"
+    "setid": "bw8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw8/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw8/logo.png"
+    }
   },
   {
     "name": "Plasma Freeze Booster",
     "price": 19,
     "id": 85,
-    "setid": "bw9"
+    "setid": "bw9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw9/logo.png"
+    }
   },
   {
     "name": "Plasma Blast Booster Box",
     "price": 1000,
     "id": 86,
-    "setid": "bw10"
+    "setid": "bw10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw10/logo.png"
+    }
   },
   {
     "name": "Plasma Blast Booster",
     "price": 13,
     "id": 87,
-    "setid": "bw10"
+    "setid": "bw10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw10/logo.png"
+    }
   },
   {
     "name": "Legendary Treasures Booster Box",
     "price": 4199,
     "id": 88,
-    "setid": "bw11"
+    "setid": "bw11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw11/logo.png"
+    }
   },
   {
     "name": "Legendary Treasures Booster",
     "price": 75,
     "id": 89,
-    "setid": "bw11"
+    "setid": "bw11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+      "logo": "https://images.pokemontcg.io/bw11/logo.png"
+    }
   },
   {
     "name": "XY Booster",
     "price": 7,
     "id": 90,
-    "setid": "xy1"
+    "setid": "xy1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy1/logo.png"
+    }
   },
   {
     "name": "Flashfire Booster",
     "price": 7,
     "id": 91,
-    "setid": "xy2"
+    "setid": "xy2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy2/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy2/logo.png"
+    }
   },
   {
     "name": "Furious Fists Booster",
     "price": 7,
     "id": 92,
-    "setid": "xy3"
+    "setid": "xy3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy3/logo.png"
+    }
   },
   {
     "name": "Phantom Forces Booster",
     "price": 27,
     "id": 93,
-    "setid": "xy4"
+    "setid": "xy4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy4/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy4/logo.png"
+    }
   },
   {
     "name": "Primal Clash Booster",
     "price": 12,
     "id": 94,
-    "setid": "xy5"
+    "setid": "xy5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy5/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy5/logo.png"
+    }
   },
   {
     "name": "Double Crisis Booster",
     "price": 59,
     "id": 95,
-    "setid": "dc1"
+    "setid": "dc1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+      "logo": "https://images.pokemontcg.io/dc1/logo.png"
+    }
   },
   {
     "name": "Roaring Skies Booster",
     "price": 10,
     "id": 96,
-    "setid": "xy6"
+    "setid": "xy6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy6/logo.png"
+    }
   },
   {
     "name": "Ancient Origins Booster",
     "price": 15,
     "id": 97,
-    "setid": "xy7"
+    "setid": "xy7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy7/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy7/logo.png"
+    }
   },
   {
     "name": "BREAKthrough Booster",
     "price": 7,
     "id": 98,
-    "setid": "xy8"
+    "setid": "xy8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy8/logo.png"
+    }
   },
   {
     "name": "BREAKpoint Booster",
     "price": 8,
     "id": 99,
-    "setid": "xy9"
+    "setid": "xy9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy9/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy9/logo.png"
+    }
   },
   {
     "name": "Generations Booster",
     "price": 39,
     "id": 100,
-    "setid": "g1"
+    "setid": "g1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+      "logo": "https://images.pokemontcg.io/g1/logo.png"
+    }
   },
   {
     "name": "Fates Collide Booster",
     "price": 9,
     "id": 101,
-    "setid": "xy10"
+    "setid": "xy10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy10/logo.png"
+    }
   },
   {
     "name": "Steam Siege Booster",
     "price": 5,
     "id": 102,
-    "setid": "xy11"
+    "setid": "xy11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy11/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy11/logo.png"
+    }
   },
   {
     "name": "Evolutions Booster",
     "price": 17,
     "id": 103,
-    "setid": "xy12"
+    "setid": "xy12",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+      "logo": "https://images.pokemontcg.io/xy12/logo.png"
+    }
   },
   {
     "name": "Sun & Moon Booster",
     "price": 3,
     "id": 104,
-    "setid": "sm1"
+    "setid": "sm1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm1/logo.png"
+    }
   },
   {
     "name": "Guardians Rising Booster",
     "price": 3,
     "id": 105,
-    "setid": "sm2"
+    "setid": "sm2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm2/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm2/logo.png"
+    }
   },
   {
     "name": "Burning Shadows Booster",
     "price": 3,
     "id": 106,
-    "setid": "sm3"
+    "setid": "sm3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm3/logo.png"
+    }
   },
   {
     "name": "Shining Legends JP Booster Box",
     "price": 200,
     "id": 107,
-    "setid": "sm35"
+    "setid": "sm35",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm35/logo.png"
+    }
   },
   {
     "name": "Shining Legends Booster",
     "price": 8,
     "id": 108,
-    "setid": "sm35"
+    "setid": "sm35",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm35/logo.png"
+    }
   },
   {
     "name": "Shining Legends JP Booster",
     "price": 13,
     "id": 109,
-    "setid": "sm35"
+    "setid": "sm35",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm35/logo.png"
+    }
   },
   {
     "name": "Crimson Invasion Booster",
     "price": 3,
     "id": 110,
-    "setid": "sm4"
+    "setid": "sm4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm4/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm4/logo.png"
+    }
   },
   {
     "name": "Ultra Prism Booster",
     "price": 4,
     "id": 111,
-    "setid": "sm5"
+    "setid": "sm5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm5/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm5/logo.png"
+    }
   },
   {
     "name": "Forbidden Light JP Booster Box",
     "price": 114,
     "id": 112,
-    "setid": "sm6"
+    "setid": "sm6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm6/logo.png"
+    }
   },
   {
     "name": "Forbidden Light Booster",
     "price": 3,
     "id": 113,
-    "setid": "sm6"
+    "setid": "sm6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm6/logo.png"
+    }
   },
   {
     "name": "Forbidden Light JP Booster",
     "price": 3,
     "id": 114,
-    "setid": "sm6"
+    "setid": "sm6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm6/logo.png"
+    }
   },
   {
     "name": "Celestial Storm Booster",
     "price": 4,
     "id": 115,
-    "setid": "sm7"
+    "setid": "sm7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm7/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm7/logo.png"
+    }
   },
   {
     "name": "Lost Thunder Booster",
     "price": 4,
     "id": 117,
-    "setid": "sm8"
+    "setid": "sm8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm8/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm8/logo.png"
+    }
   },
   {
     "name": "Team Up Booster",
     "price": 4,
     "id": 118,
-    "setid": "sm9"
+    "setid": "sm9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm9/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm9/logo.png"
+    }
   },
   {
     "name": "Detective Pikachu Booster",
     "price": 4,
     "id": 119,
-    "setid": "det1"
+    "setid": "det1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/det1/symbol.png",
+      "logo": "https://images.pokemontcg.io/det1/logo.png"
+    }
   },
   {
     "name": "Unbroken Bonds Booster",
     "price": 5,
     "id": 120,
-    "setid": "sm10"
+    "setid": "sm10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm10/logo.png"
+    }
   },
   {
     "name": "Unified Minds Booster",
     "price": 4,
     "id": 121,
-    "setid": "sm11"
+    "setid": "sm11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm11/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm11/logo.png"
+    }
   },
   {
     "name": "Hidden Fates Booster",
     "price": 10,
     "id": 122,
-    "setid": "sm115"
+    "setid": "sm115",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm115/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm115/logo.png"
+    }
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
     "price": 2,
     "id": 123,
-    "setid": "mcd19"
+    "setid": "mcd19",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/mcd19/symbol.png",
+      "logo": "https://images.pokemontcg.io/mcd19/logo.png"
+    }
   },
   {
     "name": "Cosmic Eclipse Booster",
     "price": 5,
     "id": 124,
-    "setid": "sm12"
+    "setid": "sm12",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+      "logo": "https://images.pokemontcg.io/sm12/logo.png"
+    }
   },
   {
     "name": "Sword & Shield Booster",
     "price": 3,
     "id": 125,
-    "setid": "swsh1"
+    "setid": "swsh1",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+    }
   },
   {
     "name": "Rebel Clash Booster",
     "price": 2,
     "id": 126,
-    "setid": "swsh2"
+    "setid": "swsh2",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+    }
   },
   {
     "name": "Darkness Ablaze Booster",
     "price": 3,
     "id": 127,
-    "setid": "swsh3"
+    "setid": "swsh3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+    }
   },
   {
     "name": "Vivid Voltage Booster",
     "price": 2,
     "id": 128,
-    "setid": "swsh4"
+    "setid": "swsh4",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+    }
   },
   {
     "name": "Shining Fates Booster",
     "price": 4,
     "id": 129,
-    "setid": "swsh45"
+    "setid": "swsh45",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+    }
   },
   {
     "name": "Battle Styles Booster",
     "price": 2,
     "id": 130,
-    "setid": "swsh5"
+    "setid": "swsh5",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+    }
   },
   {
     "name": "Chilling Reign Booster",
     "price": 2,
     "id": 131,
-    "setid": "swsh6"
+    "setid": "swsh6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+    }
   },
   {
     "name": "Evolving Skies Booster Box",
     "price": 144,
     "id": 132,
-    "setid": "swsh7"
+    "setid": "swsh7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+    }
   },
   {
     "name": "Evolving Skies Booster",
     "price": 3,
     "id": 133,
-    "setid": "swsh7"
+    "setid": "swsh7",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+    }
   },
   {
     "name": "Celebrations Booster",
     "price": 4,
     "id": 134,
-    "setid": "cel25"
+    "setid": "cel25",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
+      "logo": "https://images.pokemontcg.io/cel25/logo.png"
+    }
   },
   {
     "name": "Fusion Strike Booster Box",
     "price": 99,
     "id": 135,
-    "setid": "swsh8"
+    "setid": "swsh8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
   },
   {
     "name": "Fusion Strike Booster",
     "price": 2,
     "id": 136,
-    "setid": "swsh8"
+    "setid": "swsh8",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
   },
   {
     "name": "Brilliant Stars Booster Box",
     "price": 115,
     "id": 137,
-    "setid": "swsh9"
+    "setid": "swsh9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+    }
   },
   {
     "name": "Brilliant Stars Booster",
     "price": 2,
     "id": 138,
-    "setid": "swsh9"
+    "setid": "swsh9",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh9/logo.png"
+    }
   },
   {
     "name": "Astral Radiance Booster Box",
     "price": 96,
     "id": 139,
-    "setid": "swsh10"
+    "setid": "swsh10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh10/logo.png"
+    }
   },
   {
     "name": "Astral Radiance Booster",
     "price": 2,
     "id": 140,
-    "setid": "swsh10"
+    "setid": "swsh10",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh10/logo.png"
+    }
   },
   {
     "name": "Pokémon GO Booster",
     "price": 3,
     "id": 141,
-    "setid": "pgo"
+    "setid": "pgo",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
+      "logo": "https://images.pokemontcg.io/pgo/logo.png"
+    }
   }
 ]
