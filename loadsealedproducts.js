@@ -66,7 +66,7 @@ const GetPackPrices = async () => {
         console.log(err.message)
     }
 
-    const res = []
+    let res = []
 
     const sets = await pokemon.set.all()
 
@@ -95,7 +95,13 @@ const GetPackPrices = async () => {
         }
     })
 
-    return JSON.stringify(res, null, 2)
+    let json = []
+    res.forEach(x => {
+        if(json.findIndex(i => i.name == x.name) < 0)
+            json.push(x)
+    })
+
+    return JSON.stringify(json, null, 2)
 }
 
 module.exports.GetPackPrices = GetPackPrices
