@@ -15,6 +15,6 @@ jobs:
         run: echo "::set-output name=PAT::$ACCESS_TOKEN"
       - name: Get Sets action step
         id: sets
-        uses: dannyverdel/pokemon-data@v1.0.6
+        uses: dannyverdel/pokemon-data@v1.0.7
         with:
           token: ${{steps.PAT.outputs.PAT}}
