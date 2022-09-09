@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 175,
+    "price": 194,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -241,7 +241,7 @@
   },
   {
     "name": "Expedition Base Set Booster Box",
-    "price": 35000,
+    "price": 30000,
     "id": 25,
     "setid": "ecard1",
     "images": {
@@ -471,7 +471,7 @@
   },
   {
     "name": "Diamond & Pearl Booster Box",
-    "price": 395,
+    "price": 390,
     "id": 48,
     "setid": "dp1",
     "images": {
@@ -851,7 +851,7 @@
   },
   {
     "name": "Plasma Blast Booster",
-    "price": 13,
+    "price": 14,
     "id": 87,
     "setid": "bw10",
     "images": {
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Guardians Rising Booster",
-    "price": 3,
+    "price": 2,
     "id": 105,
     "setid": "sm2",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 3,
+    "price": 2,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 96,
+    "price": 94,
     "id": 139,
     "setid": "swsh10",
     "images": {
