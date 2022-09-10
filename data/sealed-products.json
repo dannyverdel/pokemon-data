@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 210,
+    "price": 225,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -341,7 +341,7 @@
   },
   {
     "name": "Dragon Majesty Booster",
-    "price": 11,
+    "price": 12,
     "id": 116,
     "setid": "sm75",
     "images": {
@@ -441,7 +441,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 17,
+    "price": 18,
     "id": 45,
     "setid": "pop3",
     "images": {
@@ -481,7 +481,7 @@
   },
   {
     "name": "Diamond & Pearl Booster",
-    "price": 87,
+    "price": 89,
     "id": 49,
     "setid": "dp1",
     "images": {
@@ -501,7 +501,7 @@
   },
   {
     "name": "Mysterious Treasures Booster",
-    "price": 60,
+    "price": 45,
     "id": 51,
     "setid": "dp2",
     "images": {
@@ -601,7 +601,7 @@
   },
   {
     "name": "Legends Awakened Booster",
-    "price": 60,
+    "price": 59,
     "id": 61,
     "setid": "dp6",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 99,
+    "price": 95,
     "id": 135,
     "setid": "swsh8",
     "images": {
@@ -1387,6 +1387,26 @@
     "images": {
       "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
       "logo": "https://images.pokemontcg.io/pgo/logo.png"
+    }
+  },
+  {
+    "name": "Lost Origin Booster Box",
+    "price": 111,
+    "id": 142,
+    "setid": "swsh11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+    }
+  },
+  {
+    "name": "Lost Origin Booster",
+    "price": 3,
+    "id": 143,
+    "setid": "swsh11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh11/logo.png"
     }
   }
 ]
