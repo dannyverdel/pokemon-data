@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 100,
+    "price": 2500,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 194,
+    "price": 170,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -131,7 +131,7 @@
   },
   {
     "name": "Gym Challenge Booster",
-    "price": 200,
+    "price": 194,
     "id": 14,
     "setid": "gym2",
     "images": {
@@ -481,7 +481,7 @@
   },
   {
     "name": "Diamond & Pearl Booster",
-    "price": 89,
+    "price": 80,
     "id": 49,
     "setid": "dp1",
     "images": {
@@ -581,7 +581,7 @@
   },
   {
     "name": "Majestic Dawn Booster",
-    "price": 60,
+    "price": 57,
     "id": 59,
     "setid": "dp5",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Ancient Origins Booster",
-    "price": 15,
+    "price": 18,
     "id": 97,
     "setid": "xy7",
     "images": {
