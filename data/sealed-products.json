@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 150,
+    "price": 149,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 2500,
+    "price": 3500,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -711,7 +711,7 @@
   },
   {
     "name": "Arceus Booster",
-    "price": 29,
+    "price": 30,
     "id": 72,
     "setid": "pl4",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Ancient Origins Booster",
-    "price": 18,
+    "price": 15,
     "id": 97,
     "setid": "xy7",
     "images": {
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 144,
+    "price": 140,
     "id": 132,
     "setid": "swsh7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 99,
+    "price": 95,
     "id": 135,
     "setid": "swsh8",
     "images": {
