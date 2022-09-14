@@ -111,7 +111,7 @@
   },
   {
     "name": "Gym Heroes Booster",
-    "price": 130,
+    "price": 150,
     "id": 12,
     "setid": "gym1",
     "images": {
@@ -491,7 +491,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 350,
+    "price": 500,
     "id": 50,
     "setid": "dp2",
     "images": {
@@ -651,7 +651,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 74,
+    "price": 75,
     "id": 66,
     "setid": "pl1",
     "images": {
@@ -851,7 +851,7 @@
   },
   {
     "name": "Plasma Blast Booster",
-    "price": 14,
+    "price": 15,
     "id": 87,
     "setid": "bw10",
     "images": {
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
-    "price": 2,
+    "price": 5,
     "id": 123,
     "setid": "mcd19",
     "images": {
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 140,
+    "price": 147,
     "id": 132,
     "setid": "swsh7",
     "images": {
@@ -1320,9 +1320,19 @@
     }
   },
   {
-    "name": "Fusion Strike Booster Box",
-    "price": 95,
+    "name": "McDonald's Collection 2018 FR Booster",
+    "price": 150,
     "id": 135,
+    "setid": "mcd18",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/mcd18/symbol.png",
+      "logo": "https://images.pokemontcg.io/mcd18/logo.png"
+    }
+  },
+  {
+    "name": "Fusion Strike Booster Box",
+    "price": 87,
+    "id": 136,
     "setid": "swsh8",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
@@ -1332,7 +1342,7 @@
   {
     "name": "Fusion Strike Booster",
     "price": 2,
-    "id": 136,
+    "id": 137,
     "setid": "swsh8",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
@@ -1342,7 +1352,7 @@
   {
     "name": "Brilliant Stars Booster Box",
     "price": 109,
-    "id": 137,
+    "id": 138,
     "setid": "swsh9",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
@@ -1352,7 +1362,7 @@
   {
     "name": "Brilliant Stars Booster",
     "price": 2,
-    "id": 138,
+    "id": 139,
     "setid": "swsh9",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
@@ -1362,7 +1372,7 @@
   {
     "name": "Astral Radiance Booster Box",
     "price": 94,
-    "id": 139,
+    "id": 140,
     "setid": "swsh10",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
@@ -1372,7 +1382,7 @@
   {
     "name": "Astral Radiance Booster",
     "price": 2,
-    "id": 140,
+    "id": 141,
     "setid": "swsh10",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
@@ -1382,7 +1392,7 @@
   {
     "name": "Pokémon GO Booster",
     "price": 3,
-    "id": 141,
+    "id": 142,
     "setid": "pgo",
     "images": {
       "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
@@ -1391,8 +1401,8 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 111,
-    "id": 142,
+    "price": 109,
+    "id": 143,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
@@ -1402,7 +1412,7 @@
   {
     "name": "Lost Origin Booster",
     "price": 3,
-    "id": 143,
+    "id": 144,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
