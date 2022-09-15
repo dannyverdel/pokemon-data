@@ -1,7 +1,7 @@
 [
   {
     "name": "Base Set Booster Box",
-    "price": 10000,
+    "price": 6500,
     "id": 1,
     "setid": "base1",
     "images": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 3500,
+    "price": 7499,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -491,7 +491,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 500,
+    "price": 350,
     "id": 50,
     "setid": "dp2",
     "images": {
@@ -911,7 +911,7 @@
   },
   {
     "name": "Phantom Forces Booster",
-    "price": 27,
+    "price": 29,
     "id": 93,
     "setid": "xy4",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "BREAKthrough Booster",
-    "price": 7,
+    "price": 8,
     "id": 98,
     "setid": "xy8",
     "images": {
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Crimson Invasion Booster",
-    "price": 3,
+    "price": 2,
     "id": 110,
     "setid": "sm4",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "McDonald's Collection 2018 FR Booster",
-    "price": 150,
+    "price": 20,
     "id": 135,
     "setid": "mcd18",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 87,
+    "price": 99,
     "id": 136,
     "setid": "swsh8",
     "images": {
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 109,
+    "price": 107,
     "id": 143,
     "setid": "swsh11",
     "images": {
@@ -1413,6 +1413,16 @@
     "name": "Lost Origin Booster",
     "price": 3,
     "id": 144,
+    "setid": "swsh11",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+    }
+  },
+  {
+    "name": "Lost Origin Sleeved Booster",
+    "price": 3,
+    "id": 145,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
