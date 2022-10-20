@@ -350,16 +350,6 @@
     }
   },
   {
-    "name": "Dragon Storm Booster",
-    "price": 5,
-    "id": 36,
-    "setid": "ex3",
-    "images": {
-      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
-      "logo": "https://images.pokemontcg.io/ex3/logo.png"
-    }
-  },
-  {
     "name": "Dragon Vault Booster",
     "price": 33,
     "id": 78,
@@ -367,6 +357,16 @@
     "images": {
       "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
       "logo": "https://images.pokemontcg.io/dv1/logo.png"
+    }
+  },
+  {
+    "name": "Dragon Storm Booster",
+    "price": 5,
+    "id": 37,
+    "setid": "ex3",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+      "logo": "https://images.pokemontcg.io/ex3/logo.png"
     }
   },
   {
