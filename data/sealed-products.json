@@ -1,7 +1,7 @@
 [
   {
     "name": "Base Set Booster Box",
-    "price": 6500,
+    "price": 10000,
     "id": 1,
     "setid": "base1",
     "images": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 149,
+    "price": 125,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 130,
+    "price": 159,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 3500,
+    "price": 7000,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 139,
+    "price": 150,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 209,
+    "price": 179,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Team Rocket Booster Box",
-    "price": 9850,
+    "price": 7000,
     "id": 9,
     "setid": "base5",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 170,
+    "price": 160,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -131,7 +131,7 @@
   },
   {
     "name": "Gym Challenge Booster",
-    "price": 194,
+    "price": 200,
     "id": 14,
     "setid": "gym2",
     "images": {
@@ -151,7 +151,7 @@
   },
   {
     "name": "Neo Genesis Booster",
-    "price": 275,
+    "price": 230,
     "id": 16,
     "setid": "neo1",
     "images": {
@@ -171,7 +171,7 @@
   },
   {
     "name": "Neo Discovery Booster",
-    "price": 195,
+    "price": 190,
     "id": 18,
     "setid": "neo2",
     "images": {
@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 220,
+    "price": 275,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -231,7 +231,7 @@
   },
   {
     "name": "Legendary Collection Booster",
-    "price": 759,
+    "price": 819,
     "id": 24,
     "setid": "base6",
     "images": {
@@ -251,7 +251,7 @@
   },
   {
     "name": "Expedition Base Set Booster",
-    "price": 220,
+    "price": 300,
     "id": 26,
     "setid": "ecard1",
     "images": {
@@ -261,7 +261,7 @@
   },
   {
     "name": "Aquapolis Booster Box",
-    "price": 29999,
+    "price": null,
     "id": 27,
     "setid": "ecard2",
     "images": {
@@ -271,7 +271,7 @@
   },
   {
     "name": "Aquapolis Booster",
-    "price": 300,
+    "price": 380,
     "id": 28,
     "setid": "ecard2",
     "images": {
@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 225,
+    "price": 220,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -331,7 +331,7 @@
   },
   {
     "name": "Dragon Selection Booster Box",
-    "price": 1500,
+    "price": 1380,
     "id": 34,
     "setid": "ex3",
     "images": {
@@ -341,7 +341,7 @@
   },
   {
     "name": "Dragon Majesty Booster",
-    "price": 12,
+    "price": 13,
     "id": 112,
     "setid": "sm75",
     "images": {
@@ -351,7 +351,7 @@
   },
   {
     "name": "Dragon Vault Booster",
-    "price": 33,
+    "price": 34,
     "id": 78,
     "setid": "dv1",
     "images": {
@@ -361,7 +361,7 @@
   },
   {
     "name": "Dragon Storm Booster",
-    "price": 5,
+    "price": 7,
     "id": 37,
     "setid": "ex3",
     "images": {
@@ -371,7 +371,7 @@
   },
   {
     "name": "POP Series 1 Booster",
-    "price": 22,
+    "price": 20,
     "id": 38,
     "setid": "pop1",
     "images": {
@@ -391,7 +391,7 @@
   },
   {
     "name": "POP Series 2 Booster",
-    "price": 22,
+    "price": 20,
     "id": 40,
     "setid": "pop2",
     "images": {
@@ -401,7 +401,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 18,
+    "price": 17,
     "id": 41,
     "setid": "pop3",
     "images": {
@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 4 Booster",
-    "price": 48,
+    "price": 45,
     "id": 42,
     "setid": "pop4",
     "images": {
@@ -421,7 +421,7 @@
   },
   {
     "name": "POP Series 5 Booster",
-    "price": 500,
+    "price": 600,
     "id": 43,
     "setid": "pop5",
     "images": {
@@ -431,7 +431,7 @@
   },
   {
     "name": "Diamond & Pearl Booster Box",
-    "price": 390,
+    "price": 395,
     "id": 44,
     "setid": "dp1",
     "images": {
@@ -461,7 +461,7 @@
   },
   {
     "name": "Mysterious Treasures Booster",
-    "price": 45,
+    "price": 60,
     "id": 47,
     "setid": "dp2",
     "images": {
@@ -511,7 +511,7 @@
   },
   {
     "name": "Great Encounters Booster",
-    "price": 75,
+    "price": 45,
     "id": 52,
     "setid": "dp4",
     "images": {
@@ -521,7 +521,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 19,
+    "price": 22,
     "id": 53,
     "setid": "pop7",
     "images": {
@@ -541,7 +541,7 @@
   },
   {
     "name": "Majestic Dawn Booster",
-    "price": 57,
+    "price": 60,
     "id": 55,
     "setid": "dp5",
     "images": {
@@ -561,7 +561,7 @@
   },
   {
     "name": "Legends Awakened Booster",
-    "price": 59,
+    "price": 68,
     "id": 57,
     "setid": "dp6",
     "images": {
@@ -581,7 +581,7 @@
   },
   {
     "name": "Stormfront Booster Box",
-    "price": 8800,
+    "price": 8750,
     "id": 59,
     "setid": "dp7",
     "images": {
@@ -591,7 +591,7 @@
   },
   {
     "name": "Stormfront Booster",
-    "price": 58,
+    "price": 50,
     "id": 60,
     "setid": "dp7",
     "images": {
@@ -611,7 +611,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 75,
+    "price": 74,
     "id": 62,
     "setid": "pl1",
     "images": {
@@ -661,7 +661,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 41,
+    "price": 40,
     "id": 67,
     "setid": "pl3",
     "images": {
@@ -761,7 +761,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 5,
+    "price": 22,
     "id": 77,
     "setid": "bw6",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Blast Booster Box",
-    "price": 1000,
+    "price": 1900,
     "id": 82,
     "setid": "bw10",
     "images": {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Plasma Blast Booster",
-    "price": 15,
+    "price": 13,
     "id": 83,
     "setid": "bw10",
     "images": {
@@ -821,7 +821,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 4199,
+    "price": 5490,
     "id": 84,
     "setid": "bw11",
     "images": {
@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster",
-    "price": 75,
+    "price": 89,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -851,7 +851,7 @@
   },
   {
     "name": "Flashfire Booster",
-    "price": 7,
+    "price": 9,
     "id": 87,
     "setid": "xy2",
     "images": {
@@ -881,7 +881,7 @@
   },
   {
     "name": "Primal Clash Booster",
-    "price": 12,
+    "price": 3,
     "id": 90,
     "setid": "xy5",
     "images": {
@@ -901,7 +901,7 @@
   },
   {
     "name": "Roaring Skies Booster",
-    "price": 10,
+    "price": 11,
     "id": 92,
     "setid": "xy6",
     "images": {
@@ -941,7 +941,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 5,
+    "price": 15,
     "id": 96,
     "setid": "g1",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 9,
+    "price": 8,
     "id": 97,
     "setid": "xy10",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 17,
+    "price": 16,
     "id": 99,
     "setid": "xy12",
     "images": {
@@ -991,7 +991,7 @@
   },
   {
     "name": "Guardians Rising Booster",
-    "price": 2,
+    "price": 3,
     "id": 101,
     "setid": "sm2",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Burning Shadows Booster",
-    "price": 3,
+    "price": 4,
     "id": 102,
     "setid": "sm3",
     "images": {
@@ -1011,7 +1011,7 @@
   },
   {
     "name": "Shining Legends JP Booster Box",
-    "price": 200,
+    "price": 849,
     "id": 103,
     "setid": "sm35",
     "images": {
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "Forbidden Light JP Booster Box",
-    "price": 114,
+    "price": 110,
     "id": 108,
     "setid": "sm6",
     "images": {
@@ -1071,7 +1071,7 @@
   },
   {
     "name": "Forbidden Light Booster",
-    "price": 3,
+    "price": 4,
     "id": 109,
     "setid": "sm6",
     "images": {
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "Team Up Booster",
-    "price": 4,
+    "price": 5,
     "id": 114,
     "setid": "sm9",
     "images": {
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "Cosmic Eclipse Booster",
-    "price": 5,
+    "price": 4,
     "id": 120,
     "setid": "sm12",
     "images": {
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Rebel Clash Sleeved Booster",
-    "price": 7,
+    "price": 6,
     "id": 123,
     "setid": "swsh2",
     "images": {
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "Vivid Voltage Booster",
-    "price": 3,
+    "price": 2,
     "id": 126,
     "setid": "swsh4",
     "images": {
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Chilling Reign Sleeved Booster",
-    "price": 3,
+    "price": 4,
     "id": 132,
     "setid": "swsh6",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 130,
+    "price": 158,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 2,
+    "price": 3,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 5,
+    "price": 6,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 4,
+    "price": 5,
     "id": 136,
     "setid": "cel25",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "McDonald's Collection 2018 FR Booster",
-    "price": 20,
+    "price": 10,
     "id": 137,
     "setid": "mcd18",
     "images": {
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 99,
+    "price": 97,
     "id": 138,
     "setid": "swsh8",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 109,
+    "price": 120,
     "id": 141,
     "setid": "swsh9",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 90,
     "id": 144,
     "setid": "swsh10",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Sleeved Booster",
-    "price": 2,
+    "price": 3,
     "id": 146,
     "setid": "swsh10",
     "images": {
@@ -1451,7 +1451,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 106,
+    "price": 100,
     "id": 148,
     "setid": "swsh11",
     "images": {
