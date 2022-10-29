@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 160,
+    "price": 194,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -111,7 +111,7 @@
   },
   {
     "name": "Gym Heroes Booster",
-    "price": 150,
+    "price": 159,
     "id": 12,
     "setid": "gym1",
     "images": {
@@ -651,7 +651,7 @@
   },
   {
     "name": "Rising Rivals Booster",
-    "price": 36,
+    "price": 39,
     "id": 66,
     "setid": "pl2",
     "images": {
@@ -711,7 +711,7 @@
   },
   {
     "name": "Black & White Booster",
-    "price": 17,
+    "price": 16,
     "id": 72,
     "setid": "bw1",
     "images": {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Plasma Blast Booster Box",
-    "price": 1900,
+    "price": 1800,
     "id": 83,
     "setid": "bw10",
     "images": {
@@ -851,7 +851,7 @@
   },
   {
     "name": "XY Booster",
-    "price": 7,
+    "price": 9,
     "id": 87,
     "setid": "xy1",
     "images": {
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "Vivid Voltage Booster",
-    "price": 2,
+    "price": 3,
     "id": 127,
     "setid": "swsh4",
     "images": {
@@ -1300,9 +1300,19 @@
     }
   },
   {
+    "name": "Chilling Reign Sleeved Booster",
+    "price": 4,
+    "id": 133,
+    "setid": "swsh6",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+      "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+    }
+  },
+  {
     "name": "Evolving Skies Booster Box",
     "price": 158,
-    "id": 133,
+    "id": 134,
     "setid": "swsh7",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
@@ -1312,7 +1322,7 @@
   {
     "name": "Evolving Skies Booster",
     "price": 3,
-    "id": 134,
+    "id": 135,
     "setid": "swsh7",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
@@ -1322,7 +1332,7 @@
   {
     "name": "Evolving Skies Sleeved Booster",
     "price": 6,
-    "id": 135,
+    "id": 136,
     "setid": "swsh7",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
@@ -1332,7 +1342,7 @@
   {
     "name": "Celebrations Booster",
     "price": 5,
-    "id": 136,
+    "id": 137,
     "setid": "cel25",
     "images": {
       "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
@@ -1342,7 +1352,7 @@
   {
     "name": "McDonald's Collection 2018 FR Booster",
     "price": 10,
-    "id": 137,
+    "id": 138,
     "setid": "mcd18",
     "images": {
       "symbol": "https://images.pokemontcg.io/mcd18/symbol.png",
@@ -1352,7 +1362,7 @@
   {
     "name": "Fusion Strike Booster Box",
     "price": 105,
-    "id": 138,
+    "id": 139,
     "setid": "swsh8",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
@@ -1362,7 +1372,7 @@
   {
     "name": "Fusion Strike Booster",
     "price": 2,
-    "id": 139,
+    "id": 140,
     "setid": "swsh8",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
@@ -1372,7 +1382,7 @@
   {
     "name": "Fusion Strike Sleeved Booster",
     "price": 3,
-    "id": 140,
+    "id": 141,
     "setid": "swsh8",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
@@ -1382,7 +1392,7 @@
   {
     "name": "Brilliant Stars Booster Box",
     "price": 120,
-    "id": 141,
+    "id": 142,
     "setid": "swsh9",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
@@ -1392,7 +1402,7 @@
   {
     "name": "Brilliant Stars Booster",
     "price": 2,
-    "id": 142,
+    "id": 143,
     "setid": "swsh9",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
@@ -1402,7 +1412,7 @@
   {
     "name": "Brilliant Stars Sleeved Booster",
     "price": 3,
-    "id": 143,
+    "id": 144,
     "setid": "swsh9",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
@@ -1412,7 +1422,7 @@
   {
     "name": "Astral Radiance Booster Box",
     "price": 90,
-    "id": 144,
+    "id": 145,
     "setid": "swsh10",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
@@ -1422,7 +1432,7 @@
   {
     "name": "Astral Radiance Booster",
     "price": 2,
-    "id": 145,
+    "id": 146,
     "setid": "swsh10",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
@@ -1432,7 +1442,7 @@
   {
     "name": "Astral Radiance Sleeved Booster",
     "price": 3,
-    "id": 146,
+    "id": 147,
     "setid": "swsh10",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
@@ -1442,7 +1452,7 @@
   {
     "name": "Pokémon GO Booster",
     "price": 3,
-    "id": 147,
+    "id": 148,
     "setid": "pgo",
     "images": {
       "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
@@ -1452,7 +1462,7 @@
   {
     "name": "Lost Origin Booster Box",
     "price": 104,
-    "id": 148,
+    "id": 149,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
@@ -1462,7 +1472,7 @@
   {
     "name": "Lost Origin Booster",
     "price": 2,
-    "id": 149,
+    "id": 150,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
@@ -1472,7 +1482,7 @@
   {
     "name": "Lost Origin Sleeved Booster",
     "price": 3,
-    "id": 150,
+    "id": 151,
     "setid": "swsh11",
     "images": {
       "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
