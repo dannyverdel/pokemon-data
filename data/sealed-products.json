@@ -291,7 +291,7 @@
   },
   {
     "name": "Skyridge Booster",
-    "price": 440,
+    "price": 460,
     "id": 30,
     "setid": "ecard3",
     "images": {
@@ -401,7 +401,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 17,
+    "price": 19,
     "id": 41,
     "setid": "pop3",
     "images": {
@@ -561,7 +561,7 @@
   },
   {
     "name": "Legends Awakened Booster",
-    "price": 68,
+    "price": 40,
     "id": 57,
     "setid": "dp6",
     "images": {
@@ -661,7 +661,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 40,
+    "price": 45,
     "id": 67,
     "setid": "pl3",
     "images": {
@@ -791,7 +791,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 19,
+    "price": 18,
     "id": 81,
     "setid": "bw9",
     "images": {
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Forbidden Light JP Booster",
-    "price": 3,
+    "price": 4,
     "id": 110,
     "setid": "sm6",
     "images": {
@@ -1451,7 +1451,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 104,
+    "price": 100,
     "id": 148,
     "setid": "swsh11",
     "images": {
