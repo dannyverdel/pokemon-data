@@ -1,7 +1,7 @@
 [
   {
     "name": "Base Set Booster Box",
-    "price": 10000,
+    "price": 6000,
     "id": 1,
     "setid": "base1",
     "images": {
@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 275,
+    "price": 260,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -451,7 +451,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 350,
+    "price": 500,
     "id": 46,
     "setid": "dp2",
     "images": {
@@ -611,7 +611,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 74,
+    "price": 69,
     "id": 62,
     "setid": "pl1",
     "images": {
@@ -661,7 +661,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 45,
+    "price": 41,
     "id": 67,
     "setid": "pl3",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Burning Shadows Booster",
-    "price": 4,
+    "price": 3,
     "id": 102,
     "setid": "sm3",
     "images": {
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "Forbidden Light JP Booster Box",
-    "price": 110,
+    "price": 114,
     "id": 108,
     "setid": "sm6",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
-    "price": 4,
+    "price": 3,
     "id": 119,
     "setid": "mcd19",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 158,
+    "price": 160,
     "id": 133,
     "setid": "swsh7",
     "images": {
