@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 155,
+    "price": 159,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 194,
+    "price": 179,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 16,
+    "price": 12,
     "id": 99,
     "setid": "xy12",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 160,
+    "price": 158,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1451,7 +1451,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 100,
+    "price": 104,
     "id": 148,
     "setid": "swsh11",
     "images": {
