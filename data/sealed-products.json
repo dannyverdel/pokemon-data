@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 159,
+    "price": 150,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 12,
+    "price": 16,
     "id": 99,
     "setid": "xy12",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
-    "price": 3,
+    "price": 4,
     "id": 119,
     "setid": "mcd19",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Pokémon GO Booster",
-    "price": 3,
+    "price": 2,
     "id": 147,
     "setid": "pgo",
     "images": {
