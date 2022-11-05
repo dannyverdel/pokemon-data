@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 125,
+    "price": 129,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 179,
+    "price": 169,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -171,7 +171,7 @@
   },
   {
     "name": "Neo Discovery Booster",
-    "price": 190,
+    "price": 195,
     "id": 18,
     "setid": "neo2",
     "images": {
@@ -431,7 +431,7 @@
   },
   {
     "name": "Diamond & Pearl Booster Box",
-    "price": 395,
+    "price": 375,
     "id": 44,
     "setid": "dp1",
     "images": {
@@ -511,7 +511,7 @@
   },
   {
     "name": "Great Encounters Booster",
-    "price": 45,
+    "price": 40,
     "id": 52,
     "setid": "dp4",
     "images": {
@@ -911,7 +911,7 @@
   },
   {
     "name": "Ancient Origins Booster",
-    "price": 15,
+    "price": 13,
     "id": 93,
     "setid": "xy7",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 16,
+    "price": 17,
     "id": 99,
     "setid": "xy12",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Burning Shadows Booster",
-    "price": 3,
+    "price": 4,
     "id": 102,
     "setid": "sm3",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 120,
+    "price": 114,
     "id": 141,
     "setid": "swsh9",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 89,
+    "price": 79,
     "id": 144,
     "setid": "swsh10",
     "images": {
