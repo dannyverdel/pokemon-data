@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 129,
+    "price": 125,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 150,
+    "price": 139,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 169,
+    "price": 194,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Burning Shadows Booster",
-    "price": 4,
+    "price": 3,
     "id": 102,
     "setid": "sm3",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
-    "price": 4,
+    "price": 3,
     "id": 119,
     "setid": "mcd19",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 114,
+    "price": 120,
     "id": 141,
     "setid": "swsh9",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 79,
+    "price": 89,
     "id": 144,
     "setid": "swsh10",
     "images": {
