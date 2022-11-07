@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 125,
+    "price": 120,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -751,7 +751,7 @@
   },
   {
     "name": "Dark Explorers Booster",
-    "price": 22,
+    "price": 24,
     "id": 76,
     "setid": "bw5",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Burning Shadows Booster",
-    "price": 3,
+    "price": 4,
     "id": 102,
     "setid": "sm3",
     "images": {
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Rebel Clash Booster",
-    "price": 2,
+    "price": 3,
     "id": 122,
     "setid": "swsh2",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 89,
+    "price": 90,
     "id": 144,
     "setid": "swsh10",
     "images": {
