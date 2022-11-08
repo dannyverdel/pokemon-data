@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 220,
+    "price": 240,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -751,7 +751,7 @@
   },
   {
     "name": "Dark Explorers Booster",
-    "price": 24,
+    "price": 22,
     "id": 76,
     "setid": "bw5",
     "images": {
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Rebel Clash Booster",
-    "price": 3,
+    "price": 2,
     "id": 122,
     "setid": "swsh2",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 158,
+    "price": 199,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 90,
+    "price": 94,
     "id": 144,
     "setid": "swsh10",
     "images": {
