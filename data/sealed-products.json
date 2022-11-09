@@ -1,7 +1,7 @@
 [
   {
     "name": "Base Set Booster Box",
-    "price": 6000,
+    "price": 10000,
     "id": 1,
     "setid": "base1",
     "images": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 120,
+    "price": 125,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 150,
+    "price": 170,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -711,7 +711,7 @@
   },
   {
     "name": "Emerging Powers Booster",
-    "price": 13,
+    "price": 12,
     "id": 72,
     "setid": "bw2",
     "images": {
