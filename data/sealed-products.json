@@ -211,7 +211,7 @@
   },
   {
     "name": "Neo Destiny Booster",
-    "price": 500,
+    "price": 700,
     "id": 22,
     "setid": "neo4",
     "images": {
@@ -291,7 +291,7 @@
   },
   {
     "name": "Skyridge Booster",
-    "price": 460,
+    "price": 440,
     "id": 30,
     "setid": "ecard3",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 8,
+    "price": 9,
     "id": 97,
     "setid": "xy10",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 17,
+    "price": 19,
     "id": 99,
     "setid": "xy12",
     "images": {
