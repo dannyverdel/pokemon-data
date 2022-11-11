@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 179,
+    "price": 200,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 194,
+    "price": 199,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -141,7 +141,7 @@
   },
   {
     "name": "Neo Genesis Booster Box",
-    "price": 22000,
+    "price": 10000,
     "id": 15,
     "setid": "neo1",
     "images": {
@@ -181,7 +181,7 @@
   },
   {
     "name": "Neo Revelation Booster Box",
-    "price": 23000,
+    "price": 19950,
     "id": 19,
     "setid": "neo3",
     "images": {
@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 240,
+    "price": 220,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -521,7 +521,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 22,
+    "price": 24,
     "id": 53,
     "setid": "pop7",
     "images": {
@@ -611,7 +611,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 69,
+    "price": 64,
     "id": 62,
     "setid": "pl1",
     "images": {
@@ -931,7 +931,7 @@
   },
   {
     "name": "BREAKpoint Booster",
-    "price": 8,
+    "price": 7,
     "id": 95,
     "setid": "xy9",
     "images": {
@@ -971,7 +971,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 19,
+    "price": 18,
     "id": 99,
     "setid": "xy12",
     "images": {
@@ -1151,7 +1151,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 10,
+    "price": 11,
     "id": 118,
     "setid": "sm115",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 120,
+    "price": 125,
     "id": 141,
     "setid": "swsh9",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 89,
     "id": 144,
     "setid": "swsh10",
     "images": {
