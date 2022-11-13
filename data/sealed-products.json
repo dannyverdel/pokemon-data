@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 4500,
+    "price": 5999,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -891,7 +891,7 @@
   },
   {
     "name": "Primal Clash Booster",
-    "price": 3,
+    "price": 12,
     "id": 91,
     "setid": "xy5",
     "images": {
@@ -981,7 +981,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 18,
+    "price": 17,
     "id": 100,
     "setid": "xy12",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 106,
+    "price": 108,
     "id": 139,
     "setid": "swsh8",
     "images": {
