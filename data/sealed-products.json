@@ -841,7 +841,7 @@
   },
   {
     "name": "Legendary Treasures Booster",
-    "price": 89,
+    "price": 100,
     "id": 86,
     "setid": "bw11",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 199,
+    "price": 225,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 5,
+    "price": 4,
     "id": 137,
     "setid": "cel25",
     "images": {
