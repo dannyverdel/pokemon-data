@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 5999,
+    "price": 6750,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 225,
+    "price": 230,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 4,
+    "price": 5,
     "id": 137,
     "setid": "cel25",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 108,
+    "price": 109,
     "id": 139,
     "setid": "swsh8",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster",
-    "price": 2,
+    "price": 3,
     "id": 153,
     "setid": "swsh12",
     "images": {
