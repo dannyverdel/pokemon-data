@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 125,
+    "price": 129,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 19,
+    "price": 17,
     "id": 42,
     "setid": "pop3",
     "images": {
@@ -841,7 +841,7 @@
   },
   {
     "name": "Legendary Treasures Booster",
-    "price": 100,
+    "price": 89,
     "id": 86,
     "setid": "bw11",
     "images": {
@@ -981,7 +981,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 17,
+    "price": 16,
     "id": 100,
     "setid": "xy12",
     "images": {
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Shining Legends JP Booster Box",
-    "price": 849,
+    "price": 749,
     "id": 104,
     "setid": "sm35",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 239,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 5,
+    "price": 4,
     "id": 137,
     "setid": "cel25",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 120,
+    "price": 114,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 90,
+    "price": 79,
     "id": 145,
     "setid": "swsh10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 104,
+    "price": 99,
     "id": 149,
     "setid": "swsh11",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster",
-    "price": 3,
+    "price": 2,
     "id": 153,
     "setid": "swsh12",
     "images": {
