@@ -141,7 +141,7 @@
   },
   {
     "name": "Neo Genesis Booster Box",
-    "price": 10000,
+    "price": 22000,
     "id": 15,
     "setid": "neo1",
     "images": {
@@ -531,7 +531,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 24,
+    "price": 23,
     "id": 54,
     "setid": "pop7",
     "images": {
@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 5490,
+    "price": 5450,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -891,7 +891,7 @@
   },
   {
     "name": "Primal Clash Booster",
-    "price": 12,
+    "price": 10,
     "id": 91,
     "setid": "xy5",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 4,
+    "price": 5,
     "id": 137,
     "setid": "cel25",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 114,
+    "price": 120,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 79,
+    "price": 94,
     "id": 145,
     "setid": "swsh10",
     "images": {
@@ -1511,7 +1511,7 @@
   },
   {
     "name": "Silver Tempest Sleeved Booster",
-    "price": 4,
+    "price": 3,
     "id": 154,
     "setid": "swsh12",
     "images": {
