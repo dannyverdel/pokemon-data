@@ -231,7 +231,7 @@
   },
   {
     "name": "Legendary Collection Booster",
-    "price": 819,
+    "price": 799,
     "id": 24,
     "setid": "base6",
     "images": {
@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 220,
+    "price": 214,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Plasma Blast Booster Box",
-    "price": 1450,
+    "price": 1400,
     "id": 83,
     "setid": "bw10",
     "images": {
@@ -891,7 +891,7 @@
   },
   {
     "name": "Primal Clash Booster",
-    "price": 10,
+    "price": 12,
     "id": 91,
     "setid": "xy5",
     "images": {
@@ -1271,7 +1271,7 @@
   },
   {
     "name": "Battle Styles Booster",
-    "price": 2,
+    "price": 1,
     "id": 130,
     "setid": "swsh5",
     "images": {
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Chilling Reign Booster",
-    "price": 2,
+    "price": 1,
     "id": 132,
     "setid": "swsh6",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 109,
+    "price": 108,
     "id": 139,
     "setid": "swsh8",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 120,
+    "price": 130,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 93,
     "id": 145,
     "setid": "swsh10",
     "images": {
