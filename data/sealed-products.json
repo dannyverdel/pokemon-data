@@ -461,7 +461,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 4750,
+    "price": 500,
     "id": 47,
     "setid": "dp2",
     "images": {
@@ -591,7 +591,7 @@
   },
   {
     "name": "Stormfront Booster Box",
-    "price": 8750,
+    "price": 4999,
     "id": 60,
     "setid": "dp7",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 190,
+    "price": 239,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Fusion Strike Sleeved Booster",
-    "price": 3,
+    "price": 2,
     "id": 141,
     "setid": "swsh8",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 125,
+    "price": 128,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Astral Radiance Sleeved Booster",
-    "price": 3,
+    "price": 2,
     "id": 147,
     "setid": "swsh10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 100,
+    "price": 94,
     "id": 149,
     "setid": "swsh11",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 118,
+    "price": 117,
     "id": 152,
     "setid": "swsh12",
     "images": {
