@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Chilling Reign Booster",
-    "price": 1,
+    "price": 2,
     "id": 132,
     "setid": "swsh6",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Fusion Strike Sleeved Booster",
-    "price": 2,
+    "price": 3,
     "id": 141,
     "setid": "swsh8",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 128,
+    "price": 130,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Astral Radiance Sleeved Booster",
-    "price": 2,
+    "price": 3,
     "id": 147,
     "setid": "swsh10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 94,
+    "price": 104,
     "id": 149,
     "setid": "swsh11",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 117,
+    "price": 109,
     "id": 152,
     "setid": "swsh12",
     "images": {
