@@ -101,7 +101,7 @@
   },
   {
     "name": "Gym Heroes Booster Box",
-    "price": 9999,
+    "price": 10500,
     "id": 11,
     "setid": "gym1",
     "images": {
@@ -121,7 +121,7 @@
   },
   {
     "name": "Gym Challenge Booster Box",
-    "price": 17499,
+    "price": 17250,
     "id": 13,
     "setid": "gym2",
     "images": {
@@ -161,7 +161,7 @@
   },
   {
     "name": "Neo Discovery Booster Box",
-    "price": 13999,
+    "price": 13750,
     "id": 17,
     "setid": "neo2",
     "images": {
@@ -341,7 +341,7 @@
   },
   {
     "name": "Dragon Majesty Booster",
-    "price": 13,
+    "price": 11,
     "id": 113,
     "setid": "sm75",
     "images": {
@@ -491,7 +491,7 @@
   },
   {
     "name": "Secret Wonders Booster Box",
-    "price": 8999,
+    "price": 8888,
     "id": 50,
     "setid": "dp3",
     "images": {
@@ -511,7 +511,7 @@
   },
   {
     "name": "Great Encounters Booster Box",
-    "price": 4499,
+    "price": 4199,
     "id": 52,
     "setid": "dp4",
     "images": {
@@ -651,7 +651,7 @@
   },
   {
     "name": "Rising Rivals Booster",
-    "price": 44,
+    "price": 39,
     "id": 66,
     "setid": "pl2",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 15,
+    "price": 35,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 8,
+    "price": 9,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -981,7 +981,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 16,
+    "price": 17,
     "id": 100,
     "setid": "xy12",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 199,
+    "price": 230,
     "id": 133,
     "setid": "swsh7",
     "images": {
