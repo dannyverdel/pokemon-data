@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 5450,
+    "price": 4900,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 10,
+    "price": 11,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 90,
     "id": 145,
     "setid": "swsh10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 102,
+    "price": 104,
     "id": 149,
     "setid": "swsh11",
     "images": {
