@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 17,
+    "price": 16,
     "id": 42,
     "setid": "pop3",
     "images": {
@@ -461,7 +461,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 500,
+    "price": 4750,
     "id": 47,
     "setid": "dp2",
     "images": {
@@ -581,7 +581,7 @@
   },
   {
     "name": "POP Series 8 Booster",
-    "price": 22,
+    "price": 20,
     "id": 59,
     "setid": "pop8",
     "images": {
@@ -761,7 +761,7 @@
   },
   {
     "name": "Dark Explorers Booster",
-    "price": 22,
+    "price": 24,
     "id": 77,
     "setid": "bw5",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 18,
+    "price": 22,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 4900,
+    "price": 4990,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -941,7 +941,7 @@
   },
   {
     "name": "BREAKpoint Booster",
-    "price": 7,
+    "price": 8,
     "id": 96,
     "setid": "xy9",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 199,
+    "price": 230,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Fusion Strike Booster Box",
-    "price": 107,
+    "price": 105,
     "id": 139,
     "setid": "swsh8",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 116,
+    "price": 114,
     "id": 152,
     "setid": "swsh12",
     "images": {
