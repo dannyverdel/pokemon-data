@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 200,
+    "price": 199,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 199,
+    "price": 185,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -241,7 +241,7 @@
   },
   {
     "name": "Expedition Base Set Booster Box",
-    "price": 30000,
+    "price": null,
     "id": 25,
     "setid": "ecard1",
     "images": {
@@ -451,7 +451,7 @@
   },
   {
     "name": "Diamond & Pearl Booster",
-    "price": 80,
+    "price": 99,
     "id": 46,
     "setid": "dp1",
     "images": {
@@ -461,7 +461,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 4750,
+    "price": 750,
     "id": 47,
     "setid": "dp2",
     "images": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 28,
+    "price": 25,
     "id": 78,
     "setid": "bw6",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 22,
+    "price": 18,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "Detective Pikachu Booster",
-    "price": 3,
+    "price": 4,
     "id": 116,
     "setid": "det1",
     "images": {
@@ -1271,7 +1271,7 @@
   },
   {
     "name": "Battle Styles Booster",
-    "price": 1,
+    "price": 2,
     "id": 130,
     "setid": "swsh5",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 220,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 6,
+    "price": 7,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 5,
+    "price": 4,
     "id": 137,
     "setid": "cel25",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 104,
+    "price": 102,
     "id": 149,
     "setid": "swsh11",
     "images": {
