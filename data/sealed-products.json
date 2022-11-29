@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 199,
+    "price": 198,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -361,7 +361,7 @@
   },
   {
     "name": "Dragon Vault Booster",
-    "price": 34,
+    "price": 32,
     "id": 79,
     "setid": "dv1",
     "images": {
@@ -471,7 +471,7 @@
   },
   {
     "name": "Mysterious Treasures Booster",
-    "price": 60,
+    "price": 35,
     "id": 48,
     "setid": "dp2",
     "images": {
@@ -921,7 +921,7 @@
   },
   {
     "name": "Ancient Origins Booster",
-    "price": 13,
+    "price": 11,
     "id": 94,
     "setid": "xy7",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 220,
+    "price": 230,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 7,
+    "price": 8,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 102,
+    "price": 105,
     "id": 149,
     "setid": "swsh11",
     "images": {
