@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 185,
+    "price": 199,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -421,7 +421,7 @@
   },
   {
     "name": "POP Series 4 Booster",
-    "price": 49,
+    "price": 46,
     "id": 43,
     "setid": "pop4",
     "images": {
@@ -621,7 +621,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 64,
+    "price": 60,
     "id": 63,
     "setid": "pl1",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 199,
     "id": 134,
     "setid": "swsh7",
     "images": {
