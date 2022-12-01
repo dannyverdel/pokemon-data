@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 129,
+    "price": 130,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 170,
+    "price": 160,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 18,
+    "price": 19,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -841,7 +841,7 @@
   },
   {
     "name": "Legendary Treasures Booster",
-    "price": 89,
+    "price": 80,
     "id": 86,
     "setid": "bw11",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 37,
+    "price": 39,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "Darkness Ablaze Booster",
-    "price": 3,
+    "price": 2,
     "id": 125,
     "setid": "swsh3",
     "images": {
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "Vivid Voltage Booster",
-    "price": 3,
+    "price": 2,
     "id": 127,
     "setid": "swsh4",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 199,
+    "price": 230,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 3,
+    "price": 4,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 114,
+    "price": 49,
     "id": 152,
     "setid": "swsh12",
     "images": {
