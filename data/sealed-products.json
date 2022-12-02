@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 130,
+    "price": 129,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 19,
+    "price": 18,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "Darkness Ablaze Booster",
-    "price": 2,
+    "price": 3,
     "id": 125,
     "setid": "swsh3",
     "images": {
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "Vivid Voltage Booster",
-    "price": 2,
+    "price": 3,
     "id": 127,
     "setid": "swsh4",
     "images": {
@@ -1251,7 +1251,7 @@
   },
   {
     "name": "Vivid Voltage Sleeved Booster",
-    "price": 4,
+    "price": 5,
     "id": 128,
     "setid": "swsh4",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 8,
+    "price": null,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 49,
+    "price": 116,
     "id": 152,
     "setid": "swsh12",
     "images": {
