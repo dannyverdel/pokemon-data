@@ -21,7 +21,7 @@
   },
   {
     "name": "Jungle Booster Box",
-    "price": 5000,
+    "price": 39,
     "id": 3,
     "setid": "base2",
     "images": {
@@ -421,7 +421,7 @@
   },
   {
     "name": "POP Series 4 Booster",
-    "price": 46,
+    "price": 49,
     "id": 43,
     "setid": "pop4",
     "images": {
@@ -461,7 +461,7 @@
   },
   {
     "name": "Mysterious Treasures Booster Box",
-    "price": 750,
+    "price": 749,
     "id": 47,
     "setid": "dp2",
     "images": {
@@ -471,7 +471,7 @@
   },
   {
     "name": "Mysterious Treasures Booster",
-    "price": 35,
+    "price": 60,
     "id": 48,
     "setid": "dp2",
     "images": {
@@ -621,7 +621,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 60,
+    "price": 64,
     "id": 63,
     "setid": "pl1",
     "images": {
@@ -741,7 +741,7 @@
   },
   {
     "name": "Next Destinies Booster",
-    "price": 19,
+    "price": 22,
     "id": 75,
     "setid": "bw4",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 199,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 4,
+    "price": 3,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 116,
+    "price": 112,
     "id": 152,
     "setid": "swsh12",
     "images": {
