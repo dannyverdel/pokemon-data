@@ -21,7 +21,7 @@
   },
   {
     "name": "Jungle Booster Box",
-    "price": 39,
+    "price": 5000,
     "id": 3,
     "setid": "base2",
     "images": {
@@ -621,7 +621,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 64,
+    "price": 60,
     "id": 63,
     "setid": "pl1",
     "images": {
@@ -741,7 +741,7 @@
   },
   {
     "name": "Next Destinies Booster",
-    "price": 22,
+    "price": 19,
     "id": 75,
     "setid": "bw4",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 9,
+    "price": 8,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "Vivid Voltage Booster",
-    "price": 3,
+    "price": 2,
     "id": 127,
     "setid": "swsh4",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 199,
+    "price": 225,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": null,
+    "price": 8,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Brilliant Stars Booster",
-    "price": 2,
+    "price": 3,
     "id": 143,
     "setid": "swsh9",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 112,
+    "price": 59,
     "id": 152,
     "setid": "swsh12",
     "images": {
