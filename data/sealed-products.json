@@ -21,7 +21,7 @@
   },
   {
     "name": "Jungle Booster Box",
-    "price": 8500,
+    "price": 5000,
     "id": 3,
     "setid": "base2",
     "images": {
@@ -221,7 +221,7 @@
   },
   {
     "name": "Legendary Collection Booster Box",
-    "price": 52500,
+    "price": 200,
     "id": 23,
     "setid": "base6",
     "images": {
@@ -581,7 +581,7 @@
   },
   {
     "name": "POP Series 8 Booster",
-    "price": 20,
+    "price": 15,
     "id": 59,
     "setid": "pop8",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 225,
+    "price": 230,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 3,
+    "price": 4,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "Celebrations Booster",
-    "price": 4,
+    "price": 5,
     "id": 138,
     "setid": "cel25",
     "images": {
