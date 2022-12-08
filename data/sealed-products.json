@@ -121,7 +121,7 @@
   },
   {
     "name": "Gym Challenge Booster Box",
-    "price": 17250,
+    "price": 16500,
     "id": 13,
     "setid": "gym2",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "McDonald's Collection 2018 FR Booster",
-    "price": 10,
+    "price": 60,
     "id": 139,
     "setid": "mcd18",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 90,
+    "price": 94,
     "id": 146,
     "setid": "swsh10",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 64,
+    "price": 69,
     "id": 153,
     "setid": "swsh12",
     "images": {
