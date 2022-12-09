@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 16,
+    "price": 15,
     "id": 42,
     "setid": "pop3",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 39,
+    "price": 38,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Sword & Shield Sleeved Booster",
-    "price": 19,
+    "price": 17,
     "id": 123,
     "setid": "swsh1",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 220,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 104,
     "id": 150,
     "setid": "swsh11",
     "images": {
