@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 130,
+    "price": 139,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Plasma Blast Booster Box",
-    "price": 1400,
+    "price": 1200,
     "id": 83,
     "setid": "bw10",
     "images": {
@@ -881,7 +881,7 @@
   },
   {
     "name": "Phantom Forces Booster",
-    "price": 29,
+    "price": 32,
     "id": 90,
     "setid": "xy4",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 38,
+    "price": 39,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 8,
+    "price": 7,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 220,
+    "price": 230,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 104,
+    "price": 100,
     "id": 150,
     "setid": "swsh11",
     "images": {
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Lost Origin Booster",
-    "price": 2,
+    "price": 3,
     "id": 151,
     "setid": "swsh11",
     "images": {
