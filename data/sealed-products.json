@@ -221,7 +221,7 @@
   },
   {
     "name": "Legendary Collection Booster Box",
-    "price": 200,
+    "price": 52500,
     "id": 23,
     "setid": "base6",
     "images": {
@@ -621,7 +621,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 60,
+    "price": 64,
     "id": 63,
     "setid": "pl1",
     "images": {
@@ -631,7 +631,7 @@
   },
   {
     "name": "POP Series 9 Booster",
-    "price": 14,
+    "price": 13,
     "id": 64,
     "setid": "pop9",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 18,
+    "price": 19,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 4990,
+    "price": 5290,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -981,7 +981,7 @@
   },
   {
     "name": "Evolutions Booster",
-    "price": 17,
+    "price": 18,
     "id": 100,
     "setid": "xy12",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 220,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 130,
+    "price": 134,
     "id": 143,
     "setid": "swsh9",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 100,
+    "price": 105,
     "id": 150,
     "setid": "swsh11",
     "images": {
