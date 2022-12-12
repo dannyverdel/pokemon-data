@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 250,
+    "price": 260,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 15,
+    "price": 14,
     "id": 42,
     "setid": "pop3",
     "images": {
@@ -901,7 +901,7 @@
   },
   {
     "name": "Double Crisis Booster",
-    "price": 59,
+    "price": 39,
     "id": 92,
     "setid": "dc1",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 39,
+    "price": 38,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Vivid Voltage Sleeved Booster",
-    "price": 5,
+    "price": 4,
     "id": 129,
     "setid": "swsh4",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 220,
+    "price": 230,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 8,
+    "price": 6,
     "id": 137,
     "setid": "swsh7",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "McDonald's Collection 2018 FR Booster",
-    "price": 60,
+    "price": 50,
     "id": 139,
     "setid": "mcd18",
     "images": {
