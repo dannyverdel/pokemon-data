@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 139,
+    "price": 140,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -151,7 +151,7 @@
   },
   {
     "name": "Neo Genesis Booster",
-    "price": 230,
+    "price": 225,
     "id": 16,
     "setid": "neo1",
     "images": {
@@ -671,7 +671,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 41,
+    "price": 40,
     "id": 68,
     "setid": "pl3",
     "images": {
@@ -731,7 +731,7 @@
   },
   {
     "name": "Noble Victories Booster",
-    "price": 7,
+    "price": 14,
     "id": 74,
     "setid": "bw3",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 38,
+    "price": 19,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Chilling Reign Booster",
-    "price": 2,
+    "price": 1,
     "id": 133,
     "setid": "swsh6",
     "images": {
