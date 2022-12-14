@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 140,
+    "price": 139,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 198,
+    "price": 195,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -731,7 +731,7 @@
   },
   {
     "name": "Noble Victories Booster",
-    "price": 14,
+    "price": 7,
     "id": 74,
     "setid": "bw3",
     "images": {
@@ -761,7 +761,7 @@
   },
   {
     "name": "Dark Explorers Booster",
-    "price": 24,
+    "price": 22,
     "id": 77,
     "setid": "bw5",
     "images": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 24,
+    "price": 22,
     "id": 78,
     "setid": "bw6",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Chilling Reign Booster",
-    "price": 1,
+    "price": 2,
     "id": 133,
     "setid": "swsh6",
     "images": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "McDonald's Collection 2018 FR Booster",
-    "price": 50,
+    "price": 15,
     "id": 139,
     "setid": "mcd18",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 108,
     "id": 150,
     "setid": "swsh11",
     "images": {
