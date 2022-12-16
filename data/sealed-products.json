@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 7999,
+    "price": 7250,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Base Set 2 Booster",
-    "price": 195,
+    "price": 198,
     "id": 8,
     "setid": "base4",
     "images": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Team Rocket Booster",
-    "price": 199,
+    "price": 175,
     "id": 10,
     "setid": "base5",
     "images": {
@@ -101,7 +101,7 @@
   },
   {
     "name": "Gym Heroes Booster Box",
-    "price": 12000,
+    "price": 10500,
     "id": 11,
     "setid": "gym1",
     "images": {
@@ -161,7 +161,7 @@
   },
   {
     "name": "Neo Discovery Booster Box",
-    "price": 15999,
+    "price": 13750,
     "id": 17,
     "setid": "neo2",
     "images": {
@@ -181,7 +181,7 @@
   },
   {
     "name": "Neo Revelation Booster Box",
-    "price": 40000,
+    "price": 19950,
     "id": 19,
     "setid": "neo3",
     "images": {
@@ -931,7 +931,7 @@
   },
   {
     "name": "BREAKthrough Booster",
-    "price": 8,
+    "price": 9,
     "id": 95,
     "setid": "xy8",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 99,
     "id": 146,
     "setid": "swsh10",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 108,
     "id": 150,
     "setid": "swsh11",
     "images": {
