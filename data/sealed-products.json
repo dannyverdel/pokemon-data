@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 119,
+    "price": 110,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -341,7 +341,7 @@
   },
   {
     "name": "Dragon Majesty Booster",
-    "price": 11,
+    "price": 12,
     "id": 113,
     "setid": "sm75",
     "images": {
@@ -431,7 +431,7 @@
   },
   {
     "name": "POP Series 5 Booster",
-    "price": 500,
+    "price": 450,
     "id": 44,
     "setid": "pop5",
     "images": {
@@ -631,7 +631,7 @@
   },
   {
     "name": "POP Series 9 Booster",
-    "price": 13,
+    "price": 12,
     "id": 64,
     "setid": "pop9",
     "images": {
@@ -881,7 +881,7 @@
   },
   {
     "name": "Phantom Forces Booster",
-    "price": 32,
+    "price": 34,
     "id": 90,
     "setid": "xy4",
     "images": {
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Shining Legends Booster",
-    "price": 8,
+    "price": 9,
     "id": 105,
     "setid": "sm35",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 99,
+    "price": 94,
     "id": 146,
     "setid": "swsh10",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 108,
+    "price": 105,
     "id": 150,
     "setid": "swsh11",
     "images": {
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Lost Origin Booster",
-    "price": 3,
+    "price": 2,
     "id": 151,
     "setid": "swsh11",
     "images": {
