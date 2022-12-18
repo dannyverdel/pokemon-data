@@ -211,7 +211,7 @@
   },
   {
     "name": "Neo Destiny Booster",
-    "price": 700,
+    "price": 650,
     "id": 22,
     "setid": "neo4",
     "images": {
@@ -241,7 +241,7 @@
   },
   {
     "name": "Expedition Base Set Booster Box",
-    "price": null,
+    "price": 16500,
     "id": 25,
     "setid": "ecard1",
     "images": {
@@ -421,7 +421,7 @@
   },
   {
     "name": "POP Series 4 Booster",
-    "price": 49,
+    "price": 50,
     "id": 43,
     "setid": "pop4",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 107,
     "id": 150,
     "setid": "swsh11",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 69,
+    "price": 114,
     "id": 153,
     "setid": "swsh12",
     "images": {
