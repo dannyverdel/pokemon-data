@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 110,
+    "price": 119,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -211,7 +211,7 @@
   },
   {
     "name": "Neo Destiny Booster",
-    "price": 650,
+    "price": 700,
     "id": 22,
     "setid": "neo4",
     "images": {
@@ -591,7 +591,7 @@
   },
   {
     "name": "Stormfront Booster Box",
-    "price": 4999,
+    "price": 8800,
     "id": 60,
     "setid": "dp7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 230,
+    "price": 229,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 114,
+    "price": 69,
     "id": 153,
     "setid": "swsh12",
     "images": {
