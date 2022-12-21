@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 119,
+    "price": 110,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 139,
+    "price": 130,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -581,7 +581,7 @@
   },
   {
     "name": "POP Series 8 Booster",
-    "price": 15,
+    "price": 10,
     "id": 59,
     "setid": "pop8",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 94,
+    "price": 99,
     "id": 146,
     "setid": "swsh10",
     "images": {
