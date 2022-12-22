@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 110,
+    "price": 119,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 130,
+    "price": 139,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -271,7 +271,7 @@
   },
   {
     "name": "Aquapolis Booster",
-    "price": 410,
+    "price": 349,
     "id": 28,
     "setid": "ecard2",
     "images": {
@@ -781,7 +781,7 @@
   },
   {
     "name": "Boundaries Crossed Booster",
-    "price": 16,
+    "price": 15,
     "id": 80,
     "setid": "bw7",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Brilliant Stars Booster",
-    "price": 3,
+    "price": 2,
     "id": 144,
     "setid": "swsh9",
     "images": {
