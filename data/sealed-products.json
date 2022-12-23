@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 119,
+    "price": 110,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -151,7 +151,7 @@
   },
   {
     "name": "Neo Genesis Booster",
-    "price": 225,
+    "price": 220,
     "id": 16,
     "setid": "neo1",
     "images": {
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Guardians Rising Booster",
-    "price": 3,
+    "price": 2,
     "id": 102,
     "setid": "sm2",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 107,
+    "price": 109,
     "id": 150,
     "setid": "swsh11",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 69,
+    "price": 109,
     "id": 153,
     "setid": "swsh12",
     "images": {
