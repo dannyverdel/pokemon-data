@@ -701,7 +701,7 @@
   },
   {
     "name": "Call of Legends Booster",
-    "price": 10,
+    "price": 75,
     "id": 71,
     "setid": "col1",
     "images": {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Unbroken Bonds Booster",
-    "price": 5,
+    "price": 4,
     "id": 117,
     "setid": "sm10",
     "images": {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 4,
+    "price": 3,
     "id": 136,
     "setid": "swsh7",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 109,
+    "price": 107,
     "id": 150,
     "setid": "swsh11",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 109,
+    "price": 69,
     "id": 153,
     "setid": "swsh12",
     "images": {
