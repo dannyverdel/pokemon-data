@@ -581,7 +581,7 @@
   },
   {
     "name": "POP Series 8 Booster",
-    "price": 10,
+    "price": 22,
     "id": 59,
     "setid": "pop8",
     "images": {
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Brilliant Stars Booster",
-    "price": 2,
+    "price": 3,
     "id": 144,
     "setid": "swsh9",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 99,
+    "price": 95,
     "id": 146,
     "setid": "swsh10",
     "images": {
