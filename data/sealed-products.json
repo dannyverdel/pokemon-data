@@ -671,7 +671,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 40,
+    "price": 41,
     "id": 68,
     "setid": "pl3",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 11,
+    "price": 12,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 107,
+    "price": 69,
     "id": 153,
     "setid": "swsh12",
     "images": {
