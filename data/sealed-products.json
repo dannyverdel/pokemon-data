@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 150,
+    "price": 179,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -211,7 +211,7 @@
   },
   {
     "name": "Neo Destiny Booster",
-    "price": 700,
+    "price": 500,
     "id": 22,
     "setid": "neo4",
     "images": {
@@ -411,7 +411,7 @@
   },
   {
     "name": "POP Series 3 Booster",
-    "price": 14,
+    "price": 15,
     "id": 42,
     "setid": "pop3",
     "images": {
@@ -621,7 +621,7 @@
   },
   {
     "name": "Platinum Booster",
-    "price": 64,
+    "price": 69,
     "id": 63,
     "setid": "pl1",
     "images": {
@@ -901,7 +901,7 @@
   },
   {
     "name": "Double Crisis Booster",
-    "price": 39,
+    "price": 59,
     "id": 92,
     "setid": "dc1",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 19,
+    "price": 30,
     "id": 97,
     "setid": "g1",
     "images": {
