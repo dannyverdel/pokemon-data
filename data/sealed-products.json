@@ -171,7 +171,7 @@
   },
   {
     "name": "Neo Discovery Booster",
-    "price": 160,
+    "price": 195,
     "id": 18,
     "setid": "neo2",
     "images": {
@@ -611,7 +611,7 @@
   },
   {
     "name": "Platinum Booster Box",
-    "price": 6000,
+    "price": 5899,
     "id": 62,
     "setid": "pl1",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 7,
+    "price": 9,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 95,
+    "price": 99,
     "id": 145,
     "setid": "swsh10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 107,
+    "price": 109,
     "id": 149,
     "setid": "swsh11",
     "images": {
