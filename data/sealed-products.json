@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 179,
+    "price": 150,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 260,
+    "price": 299,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 9,
+    "price": 7,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -1071,7 +1071,7 @@
   },
   {
     "name": "Forbidden Light JP Booster Box",
-    "price": 114,
+    "price": 140,
     "id": 109,
     "setid": "sm6",
     "images": {
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Forbidden Light Booster",
-    "price": 4,
+    "price": 3,
     "id": 110,
     "setid": "sm6",
     "images": {
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "Darkness Ablaze Sleeved Booster",
-    "price": 5,
+    "price": 6,
     "id": 126,
     "setid": "swsh3",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 5,
+    "price": 4,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 109,
+    "price": 108,
     "id": 149,
     "setid": "swsh11",
     "images": {
