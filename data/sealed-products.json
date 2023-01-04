@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 110,
+    "price": 119,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "Base Set 2 Booster Box",
-    "price": 9999,
+    "price": 8400,
     "id": 7,
     "setid": "base4",
     "images": {
@@ -151,7 +151,7 @@
   },
   {
     "name": "Neo Genesis Booster",
-    "price": 220,
+    "price": 215,
     "id": 16,
     "setid": "neo1",
     "images": {
@@ -391,7 +391,7 @@
   },
   {
     "name": "Emerald Break Booster",
-    "price": 30,
+    "price": 29,
     "id": 40,
     "setid": "ex9",
     "images": {
@@ -531,7 +531,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 23,
+    "price": 24,
     "id": 54,
     "setid": "pop7",
     "images": {
@@ -551,7 +551,7 @@
   },
   {
     "name": "Majestic Dawn Booster",
-    "price": 60,
+    "price": 70,
     "id": 56,
     "setid": "dp5",
     "images": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 22,
+    "price": 30,
     "id": 78,
     "setid": "bw6",
     "images": {
@@ -781,7 +781,7 @@
   },
   {
     "name": "Boundaries Crossed Booster",
-    "price": 15,
+    "price": 16,
     "id": 80,
     "setid": "bw7",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 19,
+    "price": 17,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -821,7 +821,7 @@
   },
   {
     "name": "Plasma Blast Booster",
-    "price": 13,
+    "price": 15,
     "id": 84,
     "setid": "bw10",
     "images": {
@@ -881,7 +881,7 @@
   },
   {
     "name": "Phantom Forces Booster",
-    "price": 34,
+    "price": 24,
     "id": 90,
     "setid": "xy4",
     "images": {
@@ -951,7 +951,7 @@
   },
   {
     "name": "Generations Booster",
-    "price": 30,
+    "price": 16,
     "id": 97,
     "setid": "g1",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 12,
+    "price": 11,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 229,
+    "price": 215,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 139,
+    "price": 130,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 69,
+    "price": 114,
     "id": 152,
     "setid": "swsh12",
     "images": {
