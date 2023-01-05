@@ -11,7 +11,7 @@
   },
   {
     "name": "Base Set Booster",
-    "price": 119,
+    "price": 110,
     "id": 2,
     "setid": "base1",
     "images": {
@@ -471,7 +471,7 @@
   },
   {
     "name": "Mysterious Treasures Booster",
-    "price": 60,
+    "price": 50,
     "id": 48,
     "setid": "dp2",
     "images": {
@@ -531,7 +531,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 24,
+    "price": 22,
     "id": 54,
     "setid": "pop7",
     "images": {
@@ -721,7 +721,7 @@
   },
   {
     "name": "Emerging Powers Booster",
-    "price": 12,
+    "price": 13,
     "id": 73,
     "setid": "bw2",
     "images": {
@@ -921,7 +921,7 @@
   },
   {
     "name": "Ancient Origins Booster",
-    "price": 11,
+    "price": 10,
     "id": 94,
     "setid": "xy7",
     "images": {
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "Lost Thunder Booster",
-    "price": 4,
+    "price": 5,
     "id": 114,
     "setid": "sm8",
     "images": {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Unbroken Bonds Booster",
-    "price": 4,
+    "price": 5,
     "id": 117,
     "setid": "sm10",
     "images": {
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 108,
+    "price": 109,
     "id": 149,
     "setid": "swsh11",
     "images": {
@@ -1491,7 +1491,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 114,
+    "price": 112,
     "id": 152,
     "setid": "swsh12",
     "images": {
