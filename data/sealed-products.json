@@ -61,7 +61,7 @@
   },
   {
     "name": "Base Set 2 Booster Box",
-    "price": 8400,
+    "price": 8200,
     "id": 7,
     "setid": "base4",
     "images": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 30,
+    "price": 35,
     "id": 78,
     "setid": "bw6",
     "images": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Plasma Freeze Booster",
-    "price": 17,
+    "price": 19,
     "id": 82,
     "setid": "bw9",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 4,
+    "price": 5,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 139,
+    "price": 132,
     "id": 141,
     "setid": "swsh9",
     "images": {
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Brilliant Stars Booster",
-    "price": 3,
+    "price": 2,
     "id": 142,
     "setid": "swsh9",
     "images": {
@@ -1451,7 +1451,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 107,
+    "price": 105,
     "id": 148,
     "setid": "swsh11",
     "images": {
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 69,
+    "price": 114,
     "id": 151,
     "setid": "swsh12",
     "images": {
