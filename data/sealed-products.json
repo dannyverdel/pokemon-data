@@ -441,7 +441,7 @@
   },
   {
     "name": "Diamond & Pearl Booster Box",
-    "price": 425,
+    "price": 500,
     "id": 45,
     "setid": "dp1",
     "images": {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Unbroken Bonds Booster",
-    "price": 4,
+    "price": 5,
     "id": 117,
     "setid": "sm10",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 12,
+    "price": 11,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 107,
+    "price": 105,
     "id": 147,
     "setid": "swsh11",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 69,
+    "price": 116,
     "id": 150,
     "setid": "swsh12",
     "images": {
