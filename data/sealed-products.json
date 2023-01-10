@@ -31,7 +31,7 @@
   },
   {
     "name": "Jungle Booster",
-    "price": 139,
+    "price": 133,
     "id": 4,
     "setid": "base2",
     "images": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Fossil Booster Box",
-    "price": 7250,
+    "price": 7499,
     "id": 5,
     "setid": "base3",
     "images": {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Plasma Blast Booster Box",
-    "price": 1200,
+    "price": 1000,
     "id": 83,
     "setid": "bw10",
     "images": {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Unbroken Bonds Booster",
-    "price": 5,
+    "price": 4,
     "id": 117,
     "setid": "sm10",
     "images": {
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "McDonald's Collection 2019 FR Booster",
-    "price": 3,
+    "price": 4,
     "id": 120,
     "setid": "mcd19",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 215,
+    "price": 208,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Pokémon GO Booster",
-    "price": 2,
+    "price": 3,
     "id": 146,
     "setid": "pgo",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 107,
     "id": 147,
     "setid": "swsh11",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 116,
+    "price": 115,
     "id": 150,
     "setid": "swsh12",
     "images": {
