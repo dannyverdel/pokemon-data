@@ -51,7 +51,7 @@
   },
   {
     "name": "Fossil Booster",
-    "price": 150,
+    "price": 166,
     "id": 6,
     "setid": "base3",
     "images": {
@@ -301,7 +301,7 @@
   },
   {
     "name": "Dragon Storm Booster Box",
-    "price": 214,
+    "price": 180,
     "id": 31,
     "setid": "ex3",
     "images": {
@@ -671,7 +671,7 @@
   },
   {
     "name": "Supreme Victors Booster",
-    "price": 41,
+    "price": 45,
     "id": 68,
     "setid": "pl3",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 11,
+    "price": 10,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 5,
+    "price": 3,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 130,
+    "price": 129,
     "id": 140,
     "setid": "swsh9",
     "images": {
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Pokémon GO Booster",
-    "price": 3,
+    "price": 2,
     "id": 146,
     "setid": "pgo",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 107,
+    "price": 105,
     "id": 147,
     "setid": "swsh11",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 115,
+    "price": 116,
     "id": 150,
     "setid": "swsh12",
     "images": {
