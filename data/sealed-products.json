@@ -121,7 +121,7 @@
   },
   {
     "name": "Gym Challenge Booster Box",
-    "price": 16500,
+    "price": 15000,
     "id": 13,
     "setid": "gym2",
     "images": {
@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 250,
+    "price": 260,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -241,7 +241,7 @@
   },
   {
     "name": "Expedition Base Set Booster Box",
-    "price": null,
+    "price": 14999,
     "id": 25,
     "setid": "ecard1",
     "images": {
@@ -401,7 +401,7 @@
   },
   {
     "name": "POP Series 2 Booster",
-    "price": 22,
+    "price": 19,
     "id": 41,
     "setid": "pop2",
     "images": {
@@ -531,7 +531,7 @@
   },
   {
     "name": "POP Series 7 Booster",
-    "price": 22,
+    "price": 23,
     "id": 54,
     "setid": "pop7",
     "images": {
@@ -681,7 +681,7 @@
   },
   {
     "name": "Arceus Booster",
-    "price": 30,
+    "price": 31,
     "id": 69,
     "setid": "pl4",
     "images": {
@@ -701,7 +701,7 @@
   },
   {
     "name": "Call of Legends Booster",
-    "price": 75,
+    "price": 80,
     "id": 71,
     "setid": "col1",
     "images": {
@@ -831,7 +831,7 @@
   },
   {
     "name": "Legendary Treasures Booster Box",
-    "price": 5290,
+    "price": 4990,
     "id": 85,
     "setid": "bw11",
     "images": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Fates Collide Booster",
-    "price": 7,
+    "price": 9,
     "id": 98,
     "setid": "xy10",
     "images": {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Unbroken Bonds Booster",
-    "price": 4,
+    "price": 6,
     "id": 117,
     "setid": "sm10",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 10,
+    "price": 11,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Evolving Skies Booster Box",
-    "price": 208,
+    "price": 209,
     "id": 133,
     "setid": "swsh7",
     "images": {
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Evolving Skies Sleeved Booster",
-    "price": 7,
+    "price": 6,
     "id": 135,
     "setid": "swsh7",
     "images": {
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "Brilliant Stars Booster Box",
-    "price": 129,
+    "price": 132,
     "id": 140,
     "setid": "swsh9",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 105,
+    "price": 109,
     "id": 147,
     "setid": "swsh11",
     "images": {
