@@ -191,7 +191,7 @@
   },
   {
     "name": "Neo Revelation Booster",
-    "price": 260,
+    "price": 299,
     "id": 20,
     "setid": "neo3",
     "images": {
@@ -611,7 +611,7 @@
   },
   {
     "name": "Platinum Booster Box",
-    "price": 5899,
+    "price": 5799,
     "id": 62,
     "setid": "pl1",
     "images": {
@@ -701,7 +701,7 @@
   },
   {
     "name": "Call of Legends Booster",
-    "price": 80,
+    "price": 75,
     "id": 71,
     "setid": "col1",
     "images": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Dragons Exalted Booster",
-    "price": 35,
+    "price": 79,
     "id": 78,
     "setid": "bw6",
     "images": {
@@ -871,7 +871,7 @@
   },
   {
     "name": "Furious Fists Booster",
-    "price": 7,
+    "price": 9,
     "id": 89,
     "setid": "xy3",
     "images": {
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Hidden Fates Booster",
-    "price": 11,
+    "price": 10,
     "id": 119,
     "setid": "sm115",
     "images": {
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "Evolving Skies Booster",
-    "price": 3,
+    "price": 5,
     "id": 134,
     "setid": "swsh7",
     "images": {
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Astral Radiance Booster Box",
-    "price": 99,
+    "price": 98,
     "id": 143,
     "setid": "swsh10",
     "images": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Lost Origin Booster Box",
-    "price": 109,
+    "price": 105,
     "id": 147,
     "setid": "swsh11",
     "images": {
@@ -1471,7 +1471,7 @@
   },
   {
     "name": "Silver Tempest Booster Box",
-    "price": 116,
+    "price": 69,
     "id": 150,
     "setid": "swsh12",
     "images": {
